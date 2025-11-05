@@ -211,15 +211,15 @@
     "POSTDOCEN": "images/kpis.jpg",
     "AVALADO": "Avalado por Microsoft Partner Network",
     "CURSO MES": "NO",
-    "INV PRO T": 700,
-    "INV EST T": 636,
-    "INV PRO": 350,
-    "INV EST": 318,
+    "INV PRO T": 650,
+    "INV EST T": 580,
+    "INV PRO": 325,
+    "INV EST": 290,
     "RESEST": 150,
     "RESPRO": 150,
     "VIDEO": "",
-    "EXEST": 286.2,
-    "EXPRO": 315,
+    "EXEST": 261,
+    "EXPRO": 292.5,
     "PERSONALIZADO": "El éxito de los líderes está en medir lo que importa 📈\nCon KPIs y OKRs aprenderás a establecer indicadores y objetivos estratégicos aplicados a casos reales 💼.\nAquí la información completa 👇🏻",
     "RES1": "🌍 *Excelente*, actualízate con *KPIS Y OKRS* y mantente competitivo en el mercado laboral.",
     "RES2": "✨ Buenísimo, *KPIS Y OKRS* es de las competencias más pedidas por las empresas y aumentará tus oportunidades laborales.",
@@ -303,15 +303,15 @@
     "POSTDOCEN": "images/transpo.jpg",
     "AVALADO": "",
     "CURSO MES": "NO",
-    "INV PRO T": 830,
-    "INV EST T": 770,
-    "INV PRO": 415,
-    "INV EST": 385,
+    "INV PRO T": 820,
+    "INV EST T": 710,
+    "INV PRO": 410,
+    "INV EST": 355,
     "RESEST": 150,
     "RESPRO": 150,
     "VIDEO": "",
-    "EXEST": 346.5,
-    "EXPRO": 373.5,
+    "EXEST": 319.5,
+    "EXPRO": 369,
     "PERSONALIZADO": "La competitividad empresarial depende de una logística eficiente 📦\nCon Gestión de Transportes aprenderás a planificar, coordinar y optimizar rutas y costos en casos reales 🚛.\nAquí te comparto la información 👇🏻",
     "RES1": "🌍 *Excelente*, actualízate con *GEST TRANSPORTES* y mantente competitivo en el mercado laboral.",
     "RES2": "📘 Buenísimo, *GEST TRANSPORTES* es de las competencias más pedidas por las empresas y aumentará tus oportunidades laborales.",
@@ -441,15 +441,15 @@
     "POSTDOCEN": "images/sappm.jpg",
     "AVALADO": "Avalado por SAP Partner Open",
     "CURSO MES": "NO",
-    "INV PRO T": 900,
-    "INV EST T": 750,
-    "INV PRO": 450,
-    "INV EST": 375,
+    "INV PRO T": 850,
+    "INV EST T": 710,
+    "INV PRO": 425,
+    "INV EST": 355,
     "RESEST": 150,
     "RESPRO": 150,
     "VIDEO": "",
-    "EXEST": 337.5,
-    "EXPRO": 405,
+    "EXEST": 319.5,
+    "EXPRO": 382.5,
     "PERSONALIZADO": "El lenguaje del mantenimiento eficiente es SAP HANA PM ⚙️\nAprenderás a planificar, controlar y optimizar la gestión de mantenimiento en empresas reales 🚀.\nAquí tienes la información 👇🏻",
     "RES1": "🛠️ Excelente, actualízate con SAP PM y domina el mantenimiento de planta y equipos.",
     "RES2": "💼 Buenísimo, SAP PM es clave en empresas de manufactura y energía.",
@@ -876,52 +876,6 @@
   {
     "LLAVE KEY": "PWE-020",
     "EDICION": "NOV. I - ED25",
-    "LINEA": "SAP",
-    "CATEGORIA": "CURSO",
-    "PROGRAMA": "SAP HANA IN PRESENCIAL",
-    "INICIO6": "8/11/2025",
-    "CURSO1": "",
-    "INICIO1": "",
-    "CURSO2": "",
-    "INICIO2": "",
-    "CURSO3": "",
-    "INICIO3": "",
-    "CURSO4": "",
-    "INICIO4": "",
-    "CURSO5": "",
-    "INICIO5": "",
-    "DOCENTE": "David Romero",
-    "DIAS": "Sáb",
-    "HORARIO": "3PM - 7PM",
-    "INICIO": "Sábado 8 Noviembre",
-    "FIN": "Sábado 6 Diciembre",
-    "SESIONES": 5,
-    "BROCHURE": "pdfs/BROCHURE SAP S4 HANA IN PRESENCIAL.pdf",
-    "BENEFICIOS": "🔵 *Utilizarán SAP HANA* 👩🏻‍💻\n👉🏼 Incluye tutorial y manual de instalación\n👉🏼 12 meses de Licencia SAP para practicar 🌟\n👉🏼 Contarás con Soporte técnico\n\n🚨 *Por favor, revisa el BROCHURE* 👇🏻\nAqui encontrarás la información completa del programa, el TEMARIO (malla curricular) y todos los BENEFICIOS 📚",
-    "POSTDOCEN": "images/sapinprese.jpg",
-    "AVALADO": "Avalado por SAP Partner Open",
-    "CURSO MES": "NO",
-    "INV PRO T": 1150,
-    "INV EST T": 1000,
-    "INV PRO": 575,
-    "INV EST": 500,
-    "RESEST": 150,
-    "RESPRO": 150,
-    "VIDEO": "",
-    "EXEST": 450,
-    "EXPRO": 517.5,
-    "PERSONALIZADO": "La gestión de producción es aún más efectiva cuando es práctica y en vivo 📌\nCon SAP HANA IN Presencial aprenderás a manejar procesos de manufactura directamente en entornos reales 💼.\nAquí la información 👇🏻",
-    "RES1": "📦 Excelente, actualízate con SAP IN Presencial y aprende gestión de inventarios en vivo.",
-    "RES2": "💼 Buenísimo, SAP IN Presencial te conecta directamente con prácticas reales de empresa.",
-    "RES3": "🎓 ¡Genial! De manera presencial aprender SAP IN te diferenciará.",
-    "RES4": "🚀 ¡Perfecto! Con SAP IN Presencial tendrás ventaja en prácticas relacionadas con logística.",
-    "RES5": "📊 ¡Excelente! Con SAP IN Presencial podrás optimizar inventarios en tu propio negocio.",
-    "ENLACE": "https://we-educacion.com/slides/sap-hana-integral-presencial-392",
-    "HABITILITADO": 1
-  },
-  {
-    "LLAVE KEY": "PWE-021",
-    "EDICION": "NOV. I - ED25",
     "LINEA": "PROYECTOS",
     "CATEGORIA": "CURSO",
     "PROGRAMA": "MS PROJECT",
@@ -966,7 +920,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-022",
+    "LLAVE KEY": "PWE-021",
     "EDICION": "NOV. I - ED25",
     "LINEA": "FINANZ",
     "CATEGORIA": "CURSO",
@@ -1012,7 +966,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-023",
+    "LLAVE KEY": "PWE-022",
     "EDICION": "NOV. I - ED25",
     "LINEA": "SAP",
     "CATEGORIA": "CURSO",
@@ -1058,7 +1012,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-024",
+    "LLAVE KEY": "PWE-023",
     "EDICION": "NOV. I - ED25",
     "LINEA": "PROCESOS",
     "CATEGORIA": "CURSO",
@@ -1104,7 +1058,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-025",
+    "LLAVE KEY": "PWE-024",
     "EDICION": "NOV. I - ED25",
     "LINEA": "SAP",
     "CATEGORIA": "CURSO",
@@ -1150,7 +1104,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-026",
+    "LLAVE KEY": "PWE-025",
     "EDICION": "NOV. I - ED25",
     "LINEA": "SAP",
     "CATEGORIA": "CURSO",
@@ -1196,7 +1150,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-027",
+    "LLAVE KEY": "PWE-026",
     "EDICION": "NOV. I - ED25",
     "LINEA": "WEB",
     "CATEGORIA": "CURSO",
@@ -1242,7 +1196,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-028",
+    "LLAVE KEY": "PWE-027",
     "EDICION": "NOV. I - ED25",
     "LINEA": "LOGÍSTICA",
     "CATEGORIA": "CURSO",
@@ -1288,7 +1242,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-029",
+    "LLAVE KEY": "PWE-028",
     "EDICION": "NOV. I - ED25",
     "LINEA": "PROYECTOS",
     "CATEGORIA": "DIPLOMADO",
@@ -1334,7 +1288,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-030",
+    "LLAVE KEY": "PWE-029",
     "EDICION": "NOV. I - ED25",
     "LINEA": "PROYECTOS",
     "CATEGORIA": "PEE",
@@ -1380,7 +1334,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-031",
+    "LLAVE KEY": "PWE-030",
     "EDICION": "NOV. I - ED25",
     "LINEA": "PROYECTOS",
     "CATEGORIA": "ESP.",
@@ -1426,7 +1380,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-032",
+    "LLAVE KEY": "PWE-031",
     "EDICION": "NOV. I - ED25",
     "LINEA": "PROYECTOS",
     "CATEGORIA": "CURSO",
@@ -1472,11 +1426,11 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-033",
+    "LLAVE KEY": "PWE-032",
     "EDICION": "NOV. I - ED25",
-    "LINEA": "LOGÍSTICA",
+    "LINEA": "SAP",
     "CATEGORIA": "CURSO",
-    "PROGRAMA": "SUPPLY CHAIN ANALYTICS",
+    "PROGRAMA": "SAP HANA IN PRESENCIAL",
     "INICIO6": "15/11/2025",
     "CURSO1": "",
     "INICIO1": "",
@@ -1488,37 +1442,37 @@
     "INICIO4": "",
     "CURSO5": "",
     "INICIO5": "",
-    "DOCENTE": "Franz Valdivia",
+    "DOCENTE": "David Romero",
     "DIAS": "Sáb",
-    "HORARIO": "3PM - 6PM",
+    "HORARIO": "3PM - 7PM",
     "INICIO": "Sábado 15 Noviembre",
-    "FIN": "Sábado 20 Diciembre",
-    "SESIONES": 6,
-    "BROCHURE": "pdfs/BROCHURE SUPPLY CHAIN ANALYTICS.pdf",
-    "BENEFICIOS": "🔵 *Conoce TODOS los BENEFICIOS a los que accedes*\n\n🧑🏻‍🏫 *Docente* Supervisor de Cadena de Suministros En *Samsung* \n🔹 Acceso a *Campus Virtual* WE 👩🏻‍🏫\n🔹 Material digital y grabación de clases \n🔹 Certificado digital incluido\n🔹 05 Cursos Online de regalo con acceso ilimitado 📚\n🔹 Desarrollo y seguimiento de tu proyecto *(Evaluado)*\n🔹 Garantía de Aprendizaje 100%\n\n🔹 Utilizarán Python👩🏻‍💻\n👉🏼 *¡Te regalamos el Curso Python Online!*\n👉🏼 Incluye videotutorial y manual de Instalación\n💻 _*Importante*: Para la instalación se necesita una Laptop *Windows*_\n\n🚨 *Por favor, revisa el BROCHURE* 👇🏻\nAqui encontrarás la información completa del programa, el TEMARIO (malla curricular) y todos los BENEFICIOS 📚",
-    "POSTDOCEN": "",
-    "AVALADO": "Avalado por IBM® Partner World",
+    "FIN": "Sábado 13 Diciembre",
+    "SESIONES": 5,
+    "BROCHURE": "pdfs/BROCHURE SAP S4 HANA IN PRESENCIAL.pdf",
+    "BENEFICIOS": "🔵 *Utilizarán SAP HANA* 👩🏻‍💻\n👉🏼 Incluye tutorial y manual de instalación\n👉🏼 12 meses de Licencia SAP para practicar 🌟\n👉🏼 Contarás con Soporte técnico\n\n🚨 *Por favor, revisa el BROCHURE* 👇🏻\nAqui encontrarás la información completa del programa, el TEMARIO (malla curricular) y todos los BENEFICIOS 📚",
+    "POSTDOCEN": "images/sapinprese.jpg",
+    "AVALADO": "Avalado por SAP Partner Open",
     "CURSO MES": "NO",
-    "INV PRO T": 640,
-    "INV EST T": 610,
-    "INV PRO": 320,
-    "INV EST": 305,
+    "INV PRO T": 1150,
+    "INV EST T": 1000,
+    "INV PRO": 575,
+    "INV EST": 500,
     "RESEST": 150,
     "RESPRO": 150,
     "VIDEO": "",
-    "EXEST": 274.5,
-    "EXPRO": 288,
-    "PERSONALIZADO": "La competitividad global se gana con Supply Chain Analytics 🌐\nAprenderás a analizar y optimizar cadenas de suministro usando datos estratégicos 📊.\nAquí tienes la información 👇🏻",
-    "RES1": "📦 Excelente, actualízate con Supply Chain Analytics y domina el análisis de cadenas de suministro.",
-    "RES2": "💼 Buenísimo, Supply Chain Analytics es clave en empresas de logística y distribución.",
-    "RES3": "🎓 ¡Genial! Con Supply Chain Analytics aprenderás herramientas de análisis desde la universidad.",
-    "RES4": "🚀 ¡Perfecto! Saber Supply Chain Analytics te dará ventaja en prácticas de logística.",
-    "RES5": "📊 ¡Excelente! Con Supply Chain Analytics podrás optimizar operaciones en tu propio negocio.",
-    "ENLACE": "",
+    "EXEST": 450,
+    "EXPRO": 517.5,
+    "PERSONALIZADO": "La gestión de producción es aún más efectiva cuando es práctica y en vivo 📌\nCon SAP HANA IN Presencial aprenderás a manejar procesos de manufactura directamente en entornos reales 💼.\nAquí la información 👇🏻",
+    "RES1": "📦 Excelente, actualízate con SAP IN Presencial y aprende gestión de inventarios en vivo.",
+    "RES2": "💼 Buenísimo, SAP IN Presencial te conecta directamente con prácticas reales de empresa.",
+    "RES3": "🎓 ¡Genial! De manera presencial aprender SAP IN te diferenciará.",
+    "RES4": "🚀 ¡Perfecto! Con SAP IN Presencial tendrás ventaja en prácticas relacionadas con logística.",
+    "RES5": "📊 ¡Excelente! Con SAP IN Presencial podrás optimizar inventarios en tu propio negocio.",
+    "ENLACE": "https://we-educacion.com/slides/sap-hana-integral-presencial-392",
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-034",
+    "LLAVE KEY": "PWE-033",
     "EDICION": "NOV. I - ED25",
     "LINEA": "BI",
     "CATEGORIA": "DIPLOMADO",
@@ -1564,7 +1518,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-035",
+    "LLAVE KEY": "PWE-034",
     "EDICION": "NOV. I - ED25",
     "LINEA": "BI",
     "CATEGORIA": "CURSO",
@@ -1610,7 +1564,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-036",
+    "LLAVE KEY": "PWE-035",
     "EDICION": "NOV. II - ED25",
     "LINEA": "PROCESOS",
     "CATEGORIA": "CURSO",
@@ -1656,7 +1610,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-037",
+    "LLAVE KEY": "PWE-036",
     "EDICION": "NOV. I - ED25",
     "LINEA": "PROCESOS",
     "CATEGORIA": "ESP.",
@@ -1678,7 +1632,7 @@
     "INICIO": "Sábado 22 Noviembre",
     "FIN": "Sábado 7 Febrero",
     "SESIONES": 12,
-    "BROCHURE": "pdfs/BROCHURE ESPECIALIZACION DE POWER APSS Y POWER AUTOMATE",
+    "BROCHURE": "pdfs/BROCHURE ESPECIALIZACION DE POWER APSS Y POWER AUTOMATE.pdf",
     "BENEFICIOS": "🔵 *¡Te brindaremos LICENCIAS durante el curso!*\n👉🏼 Microsoft Power Apps ⚡\n👉🏼 Microsoft Power Automate ⚡\n\n🚨 *Por favor, revisa el BROCHURE* 👇🏻\nAqui encontrarás la información completa del programa, el TEMARIO (malla curricular) y todos los BENEFICIOS 📚",
     "POSTDOCEN": "images/esppowerapp.jpg",
     "AVALADO": "Avalado por Microsoft Partner Network",
@@ -1702,7 +1656,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-038",
+    "LLAVE KEY": "PWE-037",
     "EDICION": "NOV. I - ED25",
     "LINEA": "PROCESOS",
     "CATEGORIA": "CURSO",
@@ -1748,7 +1702,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-039",
+    "LLAVE KEY": "PWE-038",
     "EDICION": "NOV. I - ED25",
     "LINEA": "PROCESOS",
     "CATEGORIA": "CURSO",
@@ -1794,7 +1748,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-040",
+    "LLAVE KEY": "PWE-039",
     "EDICION": "NOV. I - ED25",
     "LINEA": "BI",
     "CATEGORIA": "ESP.",
@@ -1840,7 +1794,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-041",
+    "LLAVE KEY": "PWE-040",
     "EDICION": "NOV. I - ED25",
     "LINEA": "BI",
     "CATEGORIA": "CURSO",
@@ -1856,7 +1810,7 @@
     "INICIO4": "",
     "CURSO5": "",
     "INICIO5": "",
-    "DOCENTE": "Rodrigo Sanchez",
+    "DOCENTE": "Rodrigo Sánchez",
     "DIAS": "Dom",
     "HORARIO": "9AM - 12PM",
     "INICIO": "Domingo 23 Noviembre",
@@ -1886,7 +1840,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-042",
+    "LLAVE KEY": "PWE-041",
     "EDICION": "NOV. I - ED25",
     "LINEA": "PROCESOS",
     "CATEGORIA": "CURSO",
@@ -1932,7 +1886,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-043",
+    "LLAVE KEY": "PWE-042",
     "EDICION": "NOV. I - ED25",
     "LINEA": "BI",
     "CATEGORIA": "CURSO",
@@ -1978,7 +1932,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-044",
+    "LLAVE KEY": "PWE-043",
     "EDICION": "NOV. II - ED25",
     "LINEA": "PROYECTOS",
     "CATEGORIA": "CURSO",
@@ -2024,7 +1978,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-045",
+    "LLAVE KEY": "PWE-044",
     "EDICION": "NOV. I - ED25",
     "LINEA": "PROYECTOS",
     "CATEGORIA": "CURSO",
@@ -2040,7 +1994,7 @@
     "INICIO4": "",
     "CURSO5": "",
     "INICIO5": "",
-    "DOCENTE": "Maria Palacios",
+    "DOCENTE": "William Valdivia",
     "DIAS": "Dom",
     "HORARIO": "3PM - 6PM",
     "INICIO": "Domingo 23 Noviembre",
@@ -2070,7 +2024,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-046",
+    "LLAVE KEY": "PWE-045",
     "EDICION": "NOV. I - ED25",
     "LINEA": "BI",
     "CATEGORIA": "CURSO",
@@ -2116,7 +2070,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-047",
+    "LLAVE KEY": "PWE-046",
     "EDICION": "NOV. I - ED25",
     "LINEA": "SAP",
     "CATEGORIA": "ESP.",
@@ -2162,7 +2116,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-048",
+    "LLAVE KEY": "PWE-047",
     "EDICION": "NOV. I - ED25",
     "LINEA": "SAP",
     "CATEGORIA": "CURSO",
@@ -2208,7 +2162,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-049",
+    "LLAVE KEY": "PWE-048",
     "EDICION": "NOV. I - ED25",
     "LINEA": "EXCEL",
     "CATEGORIA": "CURSO",
@@ -2254,7 +2208,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-050",
+    "LLAVE KEY": "PWE-049",
     "EDICION": "NOV. III - ED25",
     "LINEA": "PROYECTOS",
     "CATEGORIA": "CURSO",
@@ -2300,7 +2254,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-051",
+    "LLAVE KEY": "PWE-050",
     "EDICION": "NOV. I - ED25",
     "LINEA": "SAP",
     "CATEGORIA": "CURSO",
@@ -2346,7 +2300,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-052",
+    "LLAVE KEY": "PWE-051",
     "EDICION": "NOV. I - ED25",
     "LINEA": "LOGÍSTICA",
     "CATEGORIA": "DIPLOMADO",
@@ -2392,7 +2346,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-053",
+    "LLAVE KEY": "PWE-052",
     "EDICION": "NOV. I - ED25",
     "LINEA": "LOGÍSTICA",
     "CATEGORIA": "CURSO",
@@ -2438,53 +2392,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-054",
-    "EDICION": "NOV. I - ED25",
-    "LINEA": "MKT",
-    "CATEGORIA": "CURSO",
-    "PROGRAMA": "ESTR. Y TEC. COMERCIALES",
-    "INICIO6": "29/11/2025",
-    "CURSO1": "",
-    "INICIO1": "",
-    "CURSO2": "",
-    "INICIO2": "",
-    "CURSO3": "",
-    "INICIO3": "",
-    "CURSO4": "",
-    "INICIO4": "",
-    "CURSO5": "",
-    "INICIO5": "",
-    "DOCENTE": "Víctor Sotelo",
-    "DIAS": "Sáb",
-    "HORARIO": "3PM - 6PM",
-    "INICIO": "Sábado 29 Noviembre",
-    "FIN": "Sábado 10 Enero",
-    "SESIONES": 6,
-    "BROCHURE": "pdfs/BROCHURE ESTRATEGIAS Y TECNICAS COMERCIALES.pdf",
-    "BENEFICIOS": "👩🏻‍💻 Aplicarán Automatización de correos, Journey Map, Plan de Acción y mucho más. \n\n🚨 Por favor, revisa el BROCHURE 👇🏻\nAqui encontrarás la información completa del programa: Temario (malla curricular) y todos los BENEFICIOS 📚\n\n👉🏼 Te comparto un Modelo de Certificado que elevará tu perfil profesional ",
-    "POSTDOCEN": "",
-    "AVALADO": "",
-    "CURSO MES": "NO",
-    "INV PRO T": 650,
-    "INV EST T": 600,
-    "INV PRO": 325,
-    "INV EST": 300,
-    "RESEST": 150,
-    "RESPRO": 150,
-    "VIDEO": "",
-    "EXEST": 270,
-    "EXPRO": 292.5,
-    "PERSONALIZADO": "El motor de las empresas líderes es la gestión comercial estratégica 💡\nCon Estrategias y Técnicas Comerciales aprenderás a diseñar y aplicar tácticas de venta con casos reales 🏆.\nAquí te comparto la información 👇🏻",
-    "RES1": "🛠️ *Excelente*, actualízate con *ESTR. Y TEC. COMERCIALES* y mantente competitivo en el mercado laboral.",
-    "RES2": "💼 Buenísimo, *ESTR. Y TEC. COMERCIALES* es de las competencias más pedidas por las empresas y aumentará tus oportunidades laborales.",
-    "RES3": "💼 ¡Genial! Con *ESTR. Y TEC. COMERCIALES* sumarás una habilidad poderosa que te diferenciará desde la universidad.",
-    "RES4": "🚀 ¡Perfecto! Saber *ESTR. Y TEC. COMERCIALES* te dará ventaja frente a otros postulantes para conseguir prácticas.",
-    "RES5": "💼 ¡Excelente! Con *ESTR. Y TEC. COMERCIALES* podrás aplicarlo en tu negocio y tomar decisiones más inteligentes.",
-    "ENLACE": "",
-    "HABITILITADO": 1
-  },
-  {
-    "LLAVE KEY": "PWE-055",
+    "LLAVE KEY": "PWE-053",
     "EDICION": "NOV. I - ED25",
     "LINEA": "LOGÍSTICA",
     "CATEGORIA": "CURSO",
@@ -2530,7 +2438,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-056",
+    "LLAVE KEY": "PWE-054",
     "EDICION": "NOV. I - ED25",
     "LINEA": "EXCEL",
     "CATEGORIA": "ESP.",
@@ -2576,7 +2484,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-057",
+    "LLAVE KEY": "PWE-055",
     "EDICION": "NOV. II - ED25",
     "LINEA": "EXCEL",
     "CATEGORIA": "CURSO",
@@ -2622,7 +2530,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-058",
+    "LLAVE KEY": "PWE-056",
     "EDICION": "NOV. I - ED25",
     "LINEA": "BI",
     "CATEGORIA": "CURSO",
@@ -2668,7 +2576,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-059",
+    "LLAVE KEY": "PWE-057",
     "EDICION": "DIC. I - ED25",
     "LINEA": "PROCESOS",
     "CATEGORIA": "DIPLOMADO",
@@ -2714,7 +2622,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-060",
+    "LLAVE KEY": "PWE-058",
     "EDICION": "DIC. I - ED25",
     "LINEA": "PROCESOS",
     "CATEGORIA": "PEE",
@@ -2730,7 +2638,7 @@
     "INICIO4": "",
     "CURSO5": "",
     "INICIO5": "",
-    "DOCENTE": "Piero Prieto\nJulio Dávila\nMonica Olivas",
+    "DOCENTE": "Piero Prieto\nJulio Dávila\nLuis Torres",
     "DIAS": "Mie",
     "HORARIO": "7PM - 10PM",
     "INICIO": "Miércoles 3 Diciembre",
@@ -2760,7 +2668,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-061",
+    "LLAVE KEY": "PWE-059",
     "EDICION": "DIC. I - ED25",
     "LINEA": "PROCESOS",
     "CATEGORIA": "CURSO",
@@ -2806,7 +2714,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-062",
+    "LLAVE KEY": "PWE-060",
     "EDICION": "DIC. I - ED25",
     "LINEA": "LOGÍSTICA",
     "CATEGORIA": "CURSO",
@@ -2833,15 +2741,15 @@
     "POSTDOCEN": "images/transpo.jpg",
     "AVALADO": "",
     "CURSO MES": "NO",
-    "INV PRO T": 830,
-    "INV EST T": 770,
-    "INV PRO": 415,
-    "INV EST": 385,
+    "INV PRO T": 820,
+    "INV EST T": 710,
+    "INV PRO": 410,
+    "INV EST": 355,
     "RESEST": 150,
     "RESPRO": 150,
     "VIDEO": "",
-    "EXEST": 346.5,
-    "EXPRO": 373.5,
+    "EXEST": 319.5,
+    "EXPRO": 369,
     "PERSONALIZADO": "La competitividad empresarial depende de una logística eficiente 📦\nCon Gestión de Transportes aprenderás a planificar, coordinar y optimizar rutas y costos en casos reales 🚛.\nAquí te comparto la información 👇🏻",
     "RES1": "🌍 *Excelente*, actualízate con *GEST TRANSPORTES* y mantente competitivo en el mercado laboral.",
     "RES2": "📘 Buenísimo, *GEST TRANSPORTES* es de las competencias más pedidas por las empresas y aumentará tus oportunidades laborales.",
@@ -2852,7 +2760,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-063",
+    "LLAVE KEY": "PWE-061",
     "EDICION": "DIC. I - ED25",
     "LINEA": "BI",
     "CATEGORIA": "CURSO",
@@ -2898,7 +2806,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-064",
+    "LLAVE KEY": "PWE-062",
     "EDICION": "DIC. I - ED25",
     "LINEA": "FINANZ",
     "CATEGORIA": "DIPLOMADO",
@@ -2914,7 +2822,7 @@
     "INICIO4": "12/3/2026",
     "CURSO5": "GEST FINANC. PROYECT",
     "INICIO5": "7/4/2026",
-    "DOCENTE": "Renato Amapanqui\nChristian Montánchez\nJosé Botonero\nAndy Leyton\nElmer León",
+    "DOCENTE": "Renato Amapanqui\nChristian Montánchez\nGuillermo Cevallos\nEduardo Eyzaguirre\nElmer León",
     "DIAS": "Mar-Jue",
     "HORARIO": "7PM - 10PM",
     "INICIO": "Jueves 4 Diciembre",
@@ -2944,7 +2852,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-065",
+    "LLAVE KEY": "PWE-063",
     "EDICION": "DIC. I - ED25",
     "LINEA": "FINANZ",
     "CATEGORIA": "CURSO",
@@ -2990,7 +2898,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-066",
+    "LLAVE KEY": "PWE-064",
     "EDICION": "DIC. I - ED25",
     "LINEA": "LOGÍSTICA",
     "CATEGORIA": "CURSO",
@@ -3036,7 +2944,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-067",
+    "LLAVE KEY": "PWE-065",
     "EDICION": "DIC. I - ED25",
     "LINEA": "PROCESOS",
     "CATEGORIA": "CURSO",
@@ -3082,7 +2990,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-068",
+    "LLAVE KEY": "PWE-066",
     "EDICION": "DIC. I - ED25",
     "LINEA": "BI",
     "CATEGORIA": "ESP.",
@@ -3128,7 +3036,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-069",
+    "LLAVE KEY": "PWE-067",
     "EDICION": "DIC. I - ED25",
     "LINEA": "BI",
     "CATEGORIA": "CURSO",
@@ -3174,7 +3082,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-070",
+    "LLAVE KEY": "PWE-068",
     "EDICION": "DIC. I - ED25",
     "LINEA": "WEB",
     "CATEGORIA": "ESP.",
@@ -3196,7 +3104,7 @@
     "INICIO": "Sábado 13 Diciembre",
     "FIN": "Sábado 18 Abril",
     "SESIONES": 18,
-    "BROCHURE": "pdfs/BROCHURE ESPECIALIZACIÓN EN FRONT END DESARROLLO WEB",
+    "BROCHURE": "pdfs/BROCHURE ESPECIALIZACIÓN EN FRONT END DESARROLLO WEB.pdf",
     "BENEFICIOS": "🔵 *Utilizarán Visual Studio Code* ⚡\n👉🏻 Te brindaremos Manual de instalador\n💻 _*Importante*: Para la instalación se necesita una Laptop *Windows*_\n\n🚨 *Por favor, revisa el BROCHURE* 👇🏻\nAqui encontrarás la información completa del programa, el TEMARIO (malla curricular) y todos los BENEFICIOS 📚",
     "POSTDOCEN": "images/espfrontend.jpg",
     "AVALADO": "",
@@ -3220,7 +3128,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-071",
+    "LLAVE KEY": "PWE-069",
     "EDICION": "DIC. I - ED25",
     "LINEA": "WEB",
     "CATEGORIA": "CURSO",
@@ -3266,53 +3174,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-072",
-    "EDICION": "DIC. I - ED25",
-    "LINEA": "FINANZ",
-    "CATEGORIA": "CURSO",
-    "PROGRAMA": "PRICING Y RENTABILIDAD",
-    "INICIO6": "13/12/2025",
-    "CURSO1": "",
-    "INICIO1": "",
-    "CURSO2": "",
-    "INICIO2": "",
-    "CURSO3": "",
-    "INICIO3": "",
-    "CURSO4": "",
-    "INICIO4": "",
-    "CURSO5": "",
-    "INICIO5": "",
-    "DOCENTE": "",
-    "DIAS": "Sáb",
-    "HORARIO": "3PM - 6PM",
-    "INICIO": "Sábado 13 Diciembre",
-    "FIN": "Sábado 17 Enero",
-    "SESIONES": 6,
-    "BROCHURE": "",
-    "BENEFICIOS": "",
-    "POSTDOCEN": "",
-    "AVALADO": "",
-    "CURSO MES": "",
-    "INV PRO T": "",
-    "INV EST T": "",
-    "INV PRO": "",
-    "INV EST": "",
-    "RESEST": "",
-    "RESPRO": "",
-    "VIDEO": "",
-    "EXEST": "",
-    "EXPRO": "",
-    "PERSONALIZADO": "",
-    "RES1": "",
-    "RES2": "",
-    "RES3": "",
-    "RES4": "",
-    "RES5": "",
-    "ENLACE": "#N/A",
-    "HABITILITADO": 1
-  },
-  {
-    "LLAVE KEY": "PWE-073",
+    "LLAVE KEY": "PWE-070",
     "EDICION": "DIC. I - ED25",
     "LINEA": "BI",
     "CATEGORIA": "CURSO",
@@ -3358,7 +3220,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-074",
+    "LLAVE KEY": "PWE-071",
     "EDICION": "DIC. I - ED25",
     "LINEA": "EXCEL",
     "CATEGORIA": "ESP.",
@@ -3404,7 +3266,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-075",
+    "LLAVE KEY": "PWE-072",
     "EDICION": "DIC. I - ED25",
     "LINEA": "EXCEL",
     "CATEGORIA": "ESP.",
@@ -3450,7 +3312,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-076",
+    "LLAVE KEY": "PWE-073",
     "EDICION": "DIC. I - ED25",
     "LINEA": "EXCEL",
     "CATEGORIA": "CURSO",
@@ -3496,7 +3358,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-077",
+    "LLAVE KEY": "PWE-074",
     "EDICION": "DIC. I - ED25",
     "LINEA": "SAP",
     "CATEGORIA": "CURSO",
@@ -3542,7 +3404,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-078",
+    "LLAVE KEY": "PWE-075",
     "EDICION": "DIC. I - ED25",
     "LINEA": "EXCEL",
     "CATEGORIA": "CURSO",
@@ -3588,7 +3450,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-079",
+    "LLAVE KEY": "PWE-076",
     "EDICION": "DIC. I - ED25",
     "LINEA": "BI",
     "CATEGORIA": "DIPLOMADO",
@@ -3634,7 +3496,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-080",
+    "LLAVE KEY": "PWE-077",
     "EDICION": "DIC. I - ED25",
     "LINEA": "BI",
     "CATEGORIA": "CURSO",
@@ -3680,7 +3542,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-081",
+    "LLAVE KEY": "PWE-078",
     "EDICION": "DIC. I - ED25",
     "LINEA": "PROCESOS",
     "CATEGORIA": "ESP.",
@@ -3702,7 +3564,7 @@
     "INICIO": "Jueves 18 Diciembre",
     "FIN": "Martes 10 Febrero",
     "SESIONES": 12,
-    "BROCHURE": "pdfs/BROCHURE ESPECIALIZACION DE POWER APSS Y POWER AUTOMATE",
+    "BROCHURE": "pdfs/BROCHURE ESPECIALIZACION DE POWER APSS Y POWER AUTOMATE.pdf",
     "BENEFICIOS": "🔵 *¡Te brindaremos LICENCIAS durante el curso!*\n👉🏼 Microsoft Power Apps ⚡\n👉🏼 Microsoft Power Automate ⚡\n\n🚨 *Por favor, revisa el BROCHURE* 👇🏻\nAqui encontrarás la información completa del programa, el TEMARIO (malla curricular) y todos los BENEFICIOS 📚",
     "POSTDOCEN": "images/esppowerapp.jpg",
     "AVALADO": "Avalado por Microsoft Partner Network",
@@ -3726,7 +3588,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-082",
+    "LLAVE KEY": "PWE-079",
     "EDICION": "DIC. I - ED25",
     "LINEA": "PROCESOS",
     "CATEGORIA": "CURSO",
@@ -3772,7 +3634,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-083",
+    "LLAVE KEY": "PWE-080",
     "EDICION": "DIC. I - ED25",
     "LINEA": "LOGÍSTICA",
     "CATEGORIA": "PEE",
@@ -3818,7 +3680,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-084",
+    "LLAVE KEY": "PWE-081",
     "EDICION": "DIC. I - ED25",
     "LINEA": "LOGÍSTICA",
     "CATEGORIA": "CURSO",
@@ -3864,7 +3726,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-085",
+    "LLAVE KEY": "PWE-082",
     "EDICION": "DIC. I - ED25",
     "LINEA": "EXCEL",
     "CATEGORIA": "CURSO",
@@ -3910,53 +3772,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-086",
-    "EDICION": "DIC. I - ED25",
-    "LINEA": "SAP",
-    "CATEGORIA": "ESP.",
-    "PROGRAMA": "ESPEC.SAP HANA",
-    "INICIO6": "20/12/2025",
-    "CURSO1": "SAP HANA MM",
-    "INICIO1": "20/12/2025",
-    "CURSO2": "SAP HANA PP",
-    "INICIO2": "21/2/2026",
-    "CURSO3": "SAP HANA FI",
-    "INICIO3": "4/4/2026",
-    "CURSO4": "",
-    "INICIO4": "",
-    "CURSO5": "",
-    "INICIO5": "",
-    "DOCENTE": "David Romero\nCesar Escarcena\nIndira Carhuas",
-    "DIAS": "Sáb",
-    "HORARIO": "3PM - 6PM",
-    "INICIO": "Sábado 20 Diciembre",
-    "FIN": "Sábado 9 Mayo",
-    "SESIONES": 18,
-    "BROCHURE": "pdfs/BROCHURE ESPECIALIZACION DE SAP HANA.pdf",
-    "BENEFICIOS": "🔵 *Utilizarán SAP HANA* 👩🏻‍💻\n👉🏼 Incluye tutorial y manual de instalación\n👉🏼 12 meses de Licencia SAP para practicar 🌟\n👉🏼 Contarás con Soporte técnico\n👉🏼 Incluye Guía básica de las Funciones SAP HANA\n💻 _*Importante*: Para la instalación se necesita una Laptop *Windows*_\n\n🚨 *Por favor, revisa el BROCHURE* 👇🏻\nAqui encontrarás la información completa del programa, el TEMARIO (malla curricular) y todos los BENEFICIOS 📚",
-    "POSTDOCEN": "images/espsap.jpg",
-    "AVALADO": "Avalado por SAP Partner Open",
-    "CURSO MES": "NO",
-    "INV PRO T": 1900,
-    "INV EST T": 1750,
-    "INV PRO": 950,
-    "INV EST": 875,
-    "RESEST": 200,
-    "RESPRO": 250,
-    "VIDEO": "",
-    "EXEST": 787.5,
-    "EXPRO": 855,
-    "PERSONALIZADO": "El futuro de SAP está en HANA ⚡\nAprende a manejar esta plataforma de alto rendimiento para impulsar la transformación digital 🌐\n👉🏻 Aquí tienes la información.",
-    "RES1": "⚡ Excelente, actualízate en SAP HANA, la base de datos más avanzada del mercado.",
-    "RES2": "🏢 Buenísimo, muy buscado en proyectos de transformación digital empresarial.",
-    "RES3": "📊 Genial, te dará un perfil competitivo en gestión de plataformas corporativas.",
-    "RES4": "🚀 Perfecto, será tu ventaja en prácticas de sistemas y TI.",
-    "RES5": "📈 Excelente, podrás optimizar el análisis de tu propia información como independiente.",
-    "ENLACE": "https://we-educacion.com/slides/especializacion-en-sap-s-4-hana-501",
-    "HABITILITADO": 1
-  },
-  {
-    "LLAVE KEY": "PWE-087",
+    "LLAVE KEY": "PWE-083",
     "EDICION": "DIC. I - ED25",
     "LINEA": "SAP",
     "CATEGORIA": "ESP.",
@@ -4002,7 +3818,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-088",
+    "LLAVE KEY": "PWE-084",
     "EDICION": "DIC. I - ED25",
     "LINEA": "SAP",
     "CATEGORIA": "CURSO",
@@ -4048,7 +3864,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-089",
+    "LLAVE KEY": "PWE-085",
     "EDICION": "DIC. I - ED25",
     "LINEA": "SAP",
     "CATEGORIA": "CURSO",
@@ -4094,7 +3910,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-090",
+    "LLAVE KEY": "PWE-086",
     "EDICION": "DIC. I - ED25",
     "LINEA": "PROYECTOS",
     "CATEGORIA": "CURSO",
@@ -4140,7 +3956,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-091",
+    "LLAVE KEY": "PWE-087",
     "EDICION": "DIC. I - ED25",
     "LINEA": "PROYECTOS",
     "CATEGORIA": "CURSO",
@@ -4186,7 +4002,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-092",
+    "LLAVE KEY": "PWE-088",
     "EDICION": "DIC. I - ED25",
     "LINEA": "BI",
     "CATEGORIA": "PEE",
@@ -4232,7 +4048,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-093",
+    "LLAVE KEY": "PWE-089",
     "EDICION": "DIC. II - ED25",
     "LINEA": "BI",
     "CATEGORIA": "CURSO",
@@ -4278,7 +4094,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-094",
+    "LLAVE KEY": "PWE-090",
     "EDICION": "ENE. I - ED26",
     "LINEA": "PROCESOS",
     "CATEGORIA": "CURSO",
@@ -4324,7 +4140,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-095",
+    "LLAVE KEY": "PWE-091",
     "EDICION": "ENE. I - ED26",
     "LINEA": "DISEÑO Y MODELO GRÁFICO",
     "CATEGORIA": "CURSO",
@@ -4370,7 +4186,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-096",
+    "LLAVE KEY": "PWE-092",
     "EDICION": "ENE. I - ED26",
     "LINEA": "PROCESOS",
     "CATEGORIA": "CURSO",
@@ -4397,15 +4213,15 @@
     "POSTDOCEN": "images/kpis.jpg",
     "AVALADO": "Avalado por Microsoft Partner Network",
     "CURSO MES": "NO",
-    "INV PRO T": 700,
-    "INV EST T": 636,
-    "INV PRO": 350,
-    "INV EST": 318,
+    "INV PRO T": 650,
+    "INV EST T": 580,
+    "INV PRO": 325,
+    "INV EST": 290,
     "RESEST": 150,
     "RESPRO": 150,
     "VIDEO": "",
-    "EXEST": 286.2,
-    "EXPRO": 315,
+    "EXEST": 261,
+    "EXPRO": 292.5,
     "PERSONALIZADO": "El éxito de los líderes está en medir lo que importa 📈\nCon KPIs y OKRs aprenderás a establecer indicadores y objetivos estratégicos aplicados a casos reales 💼.\nAquí la información completa 👇🏻",
     "RES1": "🌍 *Excelente*, actualízate con *KPIS Y OKRS* y mantente competitivo en el mercado laboral.",
     "RES2": "✨ Buenísimo, *KPIS Y OKRS* es de las competencias más pedidas por las empresas y aumentará tus oportunidades laborales.",
@@ -4416,7 +4232,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-097",
+    "LLAVE KEY": "PWE-093",
     "EDICION": "ENE. I - ED26",
     "LINEA": "PROYECTOS",
     "CATEGORIA": "CURSO",
@@ -4462,7 +4278,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-098",
+    "LLAVE KEY": "PWE-094",
     "EDICION": "ENE. I - ED26",
     "LINEA": "SAP",
     "CATEGORIA": "CURSO",
@@ -4508,7 +4324,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-099",
+    "LLAVE KEY": "PWE-095",
     "EDICION": "ENE. I - ED26",
     "LINEA": "BI",
     "CATEGORIA": "CURSO",
@@ -4554,7 +4370,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-100",
+    "LLAVE KEY": "PWE-096",
     "EDICION": "ENE. I - ED26",
     "LINEA": "BI",
     "CATEGORIA": "CURSO",
@@ -4600,7 +4416,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-101",
+    "LLAVE KEY": "PWE-097",
     "EDICION": "ENE. I - ED26",
     "LINEA": "BI",
     "CATEGORIA": "ESP.",
@@ -4646,7 +4462,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-102",
+    "LLAVE KEY": "PWE-098",
     "EDICION": "ENE. I - ED26",
     "LINEA": "BI",
     "CATEGORIA": "CURSO",
@@ -4692,7 +4508,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-103",
+    "LLAVE KEY": "PWE-099",
     "EDICION": "ENE. I - ED26",
     "LINEA": "SAP",
     "CATEGORIA": "CURSO",
@@ -4738,7 +4554,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-104",
+    "LLAVE KEY": "PWE-100",
     "EDICION": "ENE. I - ED26",
     "LINEA": "BI",
     "CATEGORIA": "ESP.",
@@ -4784,7 +4600,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-105",
+    "LLAVE KEY": "PWE-101",
     "EDICION": "ENE. I - ED26",
     "LINEA": "PROCESOS",
     "CATEGORIA": "CURSO",
@@ -4830,7 +4646,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-106",
+    "LLAVE KEY": "PWE-102",
     "EDICION": "ENE. I - ED26",
     "LINEA": "BI",
     "CATEGORIA": "CURSO",
@@ -4876,7 +4692,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-107",
+    "LLAVE KEY": "PWE-103",
     "EDICION": "ENE. I - ED26",
     "LINEA": "SAP",
     "CATEGORIA": "CURSO",
@@ -4922,7 +4738,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-108",
+    "LLAVE KEY": "PWE-104",
     "EDICION": "ENE. I - ED26",
     "LINEA": "SAP",
     "CATEGORIA": "CURSO",
@@ -4968,7 +4784,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-109",
+    "LLAVE KEY": "PWE-105",
     "EDICION": "ENE. II - ED26",
     "LINEA": "BI",
     "CATEGORIA": "CURSO",
@@ -5014,7 +4830,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-110",
+    "LLAVE KEY": "PWE-106",
     "EDICION": "ENE. I - ED26",
     "LINEA": "EXCEL",
     "CATEGORIA": "ESP.",
@@ -5060,7 +4876,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-111",
+    "LLAVE KEY": "PWE-107",
     "EDICION": "ENE. I - ED26",
     "LINEA": "EXCEL",
     "CATEGORIA": "ESP.",
@@ -5106,7 +4922,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-112",
+    "LLAVE KEY": "PWE-108",
     "EDICION": "ENE. I - ED26",
     "LINEA": "EXCEL",
     "CATEGORIA": "CURSO",
@@ -5152,7 +4968,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-113",
+    "LLAVE KEY": "PWE-109",
     "EDICION": "ENE. I - ED26",
     "LINEA": "BI",
     "CATEGORIA": "CURSO",
@@ -5195,10 +5011,10 @@
     "RES4": "🚀 ¡Perfecto! Dominar Power BI te permitirá acceder a prácticas en análisis de datos con ventaja.",
     "RES5": "📈 ¡Excelente! Con Power BI Presencial mejorarás la toma de decisiones en tu negocio.",
     "ENLACE": "https://we-educacion.com/slides/power-bi-presencial-463",
-    "HABITILITADO": ""
+    "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-114",
+    "LLAVE KEY": "PWE-110",
     "EDICION": "ENE. I - ED26",
     "LINEA": "EXCEL",
     "CATEGORIA": "CURSO",
@@ -5244,7 +5060,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-115",
+    "LLAVE KEY": "PWE-111",
     "EDICION": "ENE. I - ED26",
     "LINEA": "LOGÍSTICA",
     "CATEGORIA": "CURSO",
@@ -5290,7 +5106,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-116",
+    "LLAVE KEY": "PWE-112",
     "EDICION": "ENE. I - ED26",
     "LINEA": "LOGÍSTICA",
     "CATEGORIA": "DIPLOMADO",
@@ -5336,7 +5152,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-117",
+    "LLAVE KEY": "PWE-113",
     "EDICION": "ENE. I - ED26",
     "LINEA": "LOGÍSTICA",
     "CATEGORIA": "CURSO",
@@ -5379,10 +5195,10 @@
     "RES4": "¡Perfecto! 🔑 Tener conocimientos en Planeamiento y Pronóstico te dará ventaja en prácticas en planeamiento o finanzas 💹.",
     "RES5": "¡Excelente! 💡 Con Planeamiento y Pronóstico podrás anticipar resultados 📈 y tomar mejores decisiones en tu negocio.",
     "ENLACE": "https://we-educacion.com/slides/planeamiento-pronostico-de-la-demanda-78",
-    "HABITILITADO": 1
+    "HABITILITADO": ""
   },
   {
-    "LLAVE KEY": "PWE-118",
+    "LLAVE KEY": "PWE-114",
     "EDICION": "ENE. I - ED26",
     "LINEA": "EXCEL",
     "CATEGORIA": "CURSO",
@@ -5428,7 +5244,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-119",
+    "LLAVE KEY": "PWE-115",
     "EDICION": "ENE. I - ED26",
     "LINEA": "PROCESOS",
     "CATEGORIA": "ESP.",
@@ -5450,7 +5266,7 @@
     "INICIO": "Domingo 11 Enero",
     "FIN": "Domingo 29 Marzo",
     "SESIONES": 12,
-    "BROCHURE": "pdfs/BROCHURE ESPECIALIZACION DE POWER APSS Y POWER AUTOMATE",
+    "BROCHURE": "pdfs/BROCHURE ESPECIALIZACION DE POWER APSS Y POWER AUTOMATE.pdf",
     "BENEFICIOS": "🔵 *¡Te brindaremos LICENCIAS durante el curso!*\n👉🏼 Microsoft Power Apps ⚡\n👉🏼 Microsoft Power Automate ⚡\n\n🚨 *Por favor, revisa el BROCHURE* 👇🏻\nAqui encontrarás la información completa del programa, el TEMARIO (malla curricular) y todos los BENEFICIOS 📚",
     "POSTDOCEN": "images/esppowerapp.jpg",
     "AVALADO": "Avalado por Microsoft Partner Network",
@@ -5474,7 +5290,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-120",
+    "LLAVE KEY": "PWE-116",
     "EDICION": "ENE. I - ED26",
     "LINEA": "PROCESOS",
     "CATEGORIA": "CURSO",
@@ -5520,7 +5336,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-121",
+    "LLAVE KEY": "PWE-117",
     "EDICION": "ENE. I - ED26",
     "LINEA": "MKT",
     "CATEGORIA": "CURSO",
@@ -5566,7 +5382,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-122",
+    "LLAVE KEY": "PWE-118",
     "EDICION": "ENE. I - ED26",
     "LINEA": "PROYECTOS",
     "CATEGORIA": "CURSO",
@@ -5612,7 +5428,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-123",
+    "LLAVE KEY": "PWE-119",
     "EDICION": "ENE. I - ED26",
     "LINEA": "BI",
     "CATEGORIA": "CURSO",
@@ -5658,7 +5474,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-124",
+    "LLAVE KEY": "PWE-120",
     "EDICION": "ENE. I - ED26",
     "LINEA": "SAP",
     "CATEGORIA": "CURSO",
@@ -5704,7 +5520,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-125",
+    "LLAVE KEY": "PWE-121",
     "EDICION": "ENE. I - ED26",
     "LINEA": "SAP",
     "CATEGORIA": "CURSO",
@@ -5750,7 +5566,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-126",
+    "LLAVE KEY": "PWE-122",
     "EDICION": "ENE. I - ED26",
     "LINEA": "PROYECTOS",
     "CATEGORIA": "DIPLOMADO",
@@ -5796,7 +5612,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-127",
+    "LLAVE KEY": "PWE-123",
     "EDICION": "ENE. I - ED26",
     "LINEA": "PROYECTOS",
     "CATEGORIA": "PEE",
@@ -5842,7 +5658,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-128",
+    "LLAVE KEY": "PWE-124",
     "EDICION": "ENE. I - ED26",
     "LINEA": "PROYECTOS",
     "CATEGORIA": "ESP.",
@@ -5888,7 +5704,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-129",
+    "LLAVE KEY": "PWE-125",
     "EDICION": "ENE. I - ED26",
     "LINEA": "PROYECTOS",
     "CATEGORIA": "CURSO",
@@ -5934,7 +5750,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-130",
+    "LLAVE KEY": "PWE-126",
     "EDICION": "ENE. I - ED26",
     "LINEA": "EXCEL",
     "CATEGORIA": "CURSO",
@@ -5980,7 +5796,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-131",
+    "LLAVE KEY": "PWE-127",
     "EDICION": "ENE. I - ED26",
     "LINEA": "BI",
     "CATEGORIA": "PEE",
@@ -6026,7 +5842,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-132",
+    "LLAVE KEY": "PWE-128",
     "EDICION": "ENE. I - ED26",
     "LINEA": "BI",
     "CATEGORIA": "ESP.",
@@ -6072,7 +5888,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-133",
+    "LLAVE KEY": "PWE-129",
     "EDICION": "ENE. I - ED26",
     "LINEA": "BI",
     "CATEGORIA": "CURSO",
@@ -6118,7 +5934,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-134",
+    "LLAVE KEY": "PWE-130",
     "EDICION": "ENE. I - ED26",
     "LINEA": "SAP",
     "CATEGORIA": "CURSO",
@@ -6164,7 +5980,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-135",
+    "LLAVE KEY": "PWE-131",
     "EDICION": "ENE. I - ED26",
     "LINEA": "SAP",
     "CATEGORIA": "ESP.",
@@ -6210,7 +6026,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-136",
+    "LLAVE KEY": "PWE-132",
     "EDICION": "ENE. I - ED26",
     "LINEA": "SAP",
     "CATEGORIA": "ESP.",
@@ -6256,7 +6072,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-137",
+    "LLAVE KEY": "PWE-133",
     "EDICION": "ENE. I - ED26",
     "LINEA": "SAP",
     "CATEGORIA": "ESP.",
@@ -6302,7 +6118,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-138",
+    "LLAVE KEY": "PWE-134",
     "EDICION": "ENE. I - ED26",
     "LINEA": "LOGÍSTICA",
     "CATEGORIA": "CURSO",
@@ -6348,7 +6164,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-139",
+    "LLAVE KEY": "PWE-135",
     "EDICION": "ENE. II - ED26",
     "LINEA": "PROCESOS",
     "CATEGORIA": "CURSO",
@@ -6394,7 +6210,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-140",
+    "LLAVE KEY": "PWE-136",
     "EDICION": "ENE. I - ED26",
     "LINEA": "LOGÍSTICA",
     "CATEGORIA": "CURSO",
@@ -6440,7 +6256,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-141",
+    "LLAVE KEY": "PWE-137",
     "EDICION": "ENE. I - ED26",
     "LINEA": "BI",
     "CATEGORIA": "DIPLOMADO",
@@ -6486,7 +6302,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-142",
+    "LLAVE KEY": "PWE-138",
     "EDICION": "ENE. I - ED26",
     "LINEA": "BI",
     "CATEGORIA": "CURSO",
@@ -6532,7 +6348,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-143",
+    "LLAVE KEY": "PWE-139",
     "EDICION": "ENE. I - ED26",
     "LINEA": "PROCESOS",
     "CATEGORIA": "DIPLOMADO",
@@ -6578,7 +6394,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-144",
+    "LLAVE KEY": "PWE-140",
     "EDICION": "ENE. I - ED26",
     "LINEA": "PROCESOS",
     "CATEGORIA": "PEE",
@@ -6624,7 +6440,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-145",
+    "LLAVE KEY": "PWE-141",
     "EDICION": "ENE. I - ED26",
     "LINEA": "PROCESOS",
     "CATEGORIA": "CURSO",
@@ -6670,7 +6486,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-146",
+    "LLAVE KEY": "PWE-142",
     "EDICION": "ENE. I - ED26",
     "LINEA": "WEB",
     "CATEGORIA": "CURSO",
@@ -6716,7 +6532,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-147",
+    "LLAVE KEY": "PWE-143",
     "EDICION": "ENE. II - ED26",
     "LINEA": "EXCEL",
     "CATEGORIA": "CURSO",
@@ -6762,7 +6578,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-148",
+    "LLAVE KEY": "PWE-144",
     "EDICION": "ENE. I - ED26",
     "LINEA": "PROCESOS",
     "CATEGORIA": "CURSO",
@@ -6808,7 +6624,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-149",
+    "LLAVE KEY": "PWE-145",
     "EDICION": "ENE. I - ED26",
     "LINEA": "FINANZ",
     "CATEGORIA": "ESP.",
@@ -6824,7 +6640,7 @@
     "INICIO4": "",
     "CURSO5": "",
     "INICIO5": "",
-    "DOCENTE": "Christian Montánchez\nJosé Botonero\nAndy Leyton",
+    "DOCENTE": "Christian Montánchez\nGuillermo Cevallos\nEduardo Eyzaguirre",
     "DIAS": "Mar-Jue",
     "HORARIO": "7PM - 10PM",
     "INICIO": "Jueves 29 Enero",
@@ -6835,15 +6651,15 @@
     "POSTDOCEN": "",
     "AVALADO": "",
     "CURSO MES": "NO",
-    "INV PRO T": 2400,
-    "INV EST T": 2150,
-    "INV PRO": 1200,
-    "INV EST": 1075,
+    "INV PRO T": 2000,
+    "INV EST T": 1800,
+    "INV PRO": 1000,
+    "INV EST": 900,
     "RESEST": 200,
     "RESPRO": 250,
     "VIDEO": "",
-    "EXEST": 967.5,
-    "EXPRO": 1080,
+    "EXEST": 810,
+    "EXPRO": 900,
     "PERSONALIZADO": "La clave de toda empresa está en sus finanzas 💼\nDomina la gestión financiera con herramientas modernas y eleva tu perfil profesional 📈\n👉🏻 Te comparto la información.",
     "RES1": "💰 Excelente, actualízate en finanzas y domina decisiones estratégicas.",
     "RES2": "🏦 Buenísimo, el mercado busca expertos en análisis y control financiero.",
@@ -6854,7 +6670,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-150",
+    "LLAVE KEY": "PWE-146",
     "EDICION": "ENE. I - ED26",
     "LINEA": "FINANZ",
     "CATEGORIA": "CURSO",
@@ -6900,7 +6716,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-151",
+    "LLAVE KEY": "PWE-147",
     "EDICION": "ENE. II - ED26",
     "LINEA": "PROCESOS",
     "CATEGORIA": "ESP.",
@@ -6922,7 +6738,7 @@
     "INICIO": "Jueves 29 Enero",
     "FIN": "Martes 10 Marzo",
     "SESIONES": 12,
-    "BROCHURE": "pdfs/BROCHURE ESPECIALIZACION DE POWER APSS Y POWER AUTOMATE",
+    "BROCHURE": "pdfs/BROCHURE ESPECIALIZACION DE POWER APSS Y POWER AUTOMATE.pdf",
     "BENEFICIOS": "🔵 *¡Te brindaremos LICENCIAS durante el curso!*\n👉🏼 Microsoft Power Apps ⚡\n👉🏼 Microsoft Power Automate ⚡\n\n🚨 *Por favor, revisa el BROCHURE* 👇🏻\nAqui encontrarás la información completa del programa, el TEMARIO (malla curricular) y todos los BENEFICIOS 📚",
     "POSTDOCEN": "images/esppowerapp.jpg",
     "AVALADO": "Avalado por Microsoft Partner Network",
@@ -6946,7 +6762,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-152",
+    "LLAVE KEY": "PWE-148",
     "EDICION": "ENE. II - ED26",
     "LINEA": "PROCESOS",
     "CATEGORIA": "CURSO",
@@ -6992,7 +6808,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-153",
+    "LLAVE KEY": "PWE-149",
     "EDICION": "ENE. I - ED26",
     "LINEA": "MINERA",
     "CATEGORIA": "CURSO",
@@ -7038,7 +6854,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-154",
+    "LLAVE KEY": "PWE-150",
     "EDICION": "ENE. II - ED26",
     "LINEA": "BI",
     "CATEGORIA": "CURSO",
@@ -7084,7 +6900,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-155",
+    "LLAVE KEY": "PWE-151",
     "EDICION": "ENE. II - ED26",
     "LINEA": "BI",
     "CATEGORIA": "ESP.",
@@ -7130,7 +6946,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-156",
+    "LLAVE KEY": "PWE-152",
     "EDICION": "ENE. I - ED26",
     "LINEA": "EXCEL",
     "CATEGORIA": "ESP.",
@@ -7176,7 +6992,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-157",
+    "LLAVE KEY": "PWE-153",
     "EDICION": "ENE. I - ED26",
     "LINEA": "EXCEL",
     "CATEGORIA": "CURSO",
@@ -7222,7 +7038,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-158",
+    "LLAVE KEY": "PWE-154",
     "EDICION": "ENE. II - ED26",
     "LINEA": "EXCEL",
     "CATEGORIA": "ESP.",
@@ -7268,7 +7084,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-159",
+    "LLAVE KEY": "PWE-155",
     "EDICION": "ENE. II - ED26",
     "LINEA": "EXCEL",
     "CATEGORIA": "ESP.",
@@ -7314,7 +7130,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-160",
+    "LLAVE KEY": "PWE-156",
     "EDICION": "ENE. II - ED26",
     "LINEA": "EXCEL",
     "CATEGORIA": "CURSO",
@@ -7360,7 +7176,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-161",
+    "LLAVE KEY": "PWE-157",
     "EDICION": "ENE. II - ED26",
     "LINEA": "SAP",
     "CATEGORIA": "CURSO",
@@ -7406,7 +7222,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-162",
+    "LLAVE KEY": "PWE-158",
     "EDICION": "ENE. II - ED26",
     "LINEA": "PROYECTOS",
     "CATEGORIA": "CURSO",
@@ -7452,7 +7268,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-163",
+    "LLAVE KEY": "PWE-159",
     "EDICION": "ENE. II - ED26",
     "LINEA": "BI",
     "CATEGORIA": "PEE",
@@ -7498,7 +7314,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-164",
+    "LLAVE KEY": "PWE-160",
     "EDICION": "ENE. II - ED26",
     "LINEA": "BI",
     "CATEGORIA": "CURSO",
@@ -7544,7 +7360,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-165",
+    "LLAVE KEY": "PWE-161",
     "EDICION": "FEB. I - ED26",
     "LINEA": "PROYECTOS",
     "CATEGORIA": "CURSO",
@@ -7590,7 +7406,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-166",
+    "LLAVE KEY": "PWE-162",
     "EDICION": "FEB. I - ED26",
     "LINEA": "BI",
     "CATEGORIA": "CURSO",
@@ -7636,7 +7452,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-167",
+    "LLAVE KEY": "PWE-163",
     "EDICION": "FEB. I - ED26",
     "LINEA": "EXCEL",
     "CATEGORIA": "CURSO",
@@ -7682,7 +7498,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-168",
+    "LLAVE KEY": "PWE-164",
     "EDICION": "FEB. I - ED26",
     "LINEA": "DISEÑO Y MODELO GRÁFICO",
     "CATEGORIA": "CURSO",
@@ -7728,7 +7544,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-169",
+    "LLAVE KEY": "PWE-165",
     "EDICION": "FEB. I - ED26",
     "LINEA": "LOGÍSTICA",
     "CATEGORIA": "PEE",
@@ -7774,7 +7590,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-170",
+    "LLAVE KEY": "PWE-166",
     "EDICION": "FEB. I - ED26",
     "LINEA": "LOGÍSTICA",
     "CATEGORIA": "CURSO",
@@ -7820,7 +7636,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-171",
+    "LLAVE KEY": "PWE-167",
     "EDICION": "FEB. I - ED26",
     "LINEA": "BI",
     "CATEGORIA": "CURSO",
@@ -7866,7 +7682,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-172",
+    "LLAVE KEY": "PWE-168",
     "EDICION": "FEB. I - ED26",
     "LINEA": "SAP",
     "CATEGORIA": "CURSO",
@@ -7893,15 +7709,15 @@
     "POSTDOCEN": "images/sappm.jpg",
     "AVALADO": "Avalado por SAP Partner Open",
     "CURSO MES": "NO",
-    "INV PRO T": 900,
-    "INV EST T": 750,
-    "INV PRO": 450,
-    "INV EST": 375,
+    "INV PRO T": 850,
+    "INV EST T": 710,
+    "INV PRO": 425,
+    "INV EST": 355,
     "RESEST": 150,
     "RESPRO": 150,
     "VIDEO": "",
-    "EXEST": 337.5,
-    "EXPRO": 405,
+    "EXEST": 319.5,
+    "EXPRO": 382.5,
     "PERSONALIZADO": "El lenguaje del mantenimiento eficiente es SAP HANA PM ⚙️\nAprenderás a planificar, controlar y optimizar la gestión de mantenimiento en empresas reales 🚀.\nAquí tienes la información 👇🏻",
     "RES1": "🛠️ Excelente, actualízate con SAP PM y domina el mantenimiento de planta y equipos.",
     "RES2": "💼 Buenísimo, SAP PM es clave en empresas de manufactura y energía.",
@@ -7912,7 +7728,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-173",
+    "LLAVE KEY": "PWE-169",
     "EDICION": "FEB. I - ED26",
     "LINEA": "BI",
     "CATEGORIA": "ESP.",
@@ -7958,7 +7774,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-174",
+    "LLAVE KEY": "PWE-170",
     "EDICION": "FEB. I - ED26",
     "LINEA": "BI",
     "CATEGORIA": "CURSO",
@@ -8004,7 +7820,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-175",
+    "LLAVE KEY": "PWE-171",
     "EDICION": "FEB. I - ED26",
     "LINEA": "WEB",
     "CATEGORIA": "ESP.",
@@ -8026,7 +7842,7 @@
     "INICIO": "Sábado 7 Febrero",
     "FIN": "Sábado 13 Junio",
     "SESIONES": 18,
-    "BROCHURE": "pdfs/BROCHURE ESPECIALIZACIÓN EN FRONT END DESARROLLO WEB",
+    "BROCHURE": "pdfs/BROCHURE ESPECIALIZACIÓN EN FRONT END DESARROLLO WEB.pdf",
     "BENEFICIOS": "🔵 *Utilizarán Visual Studio Code* ⚡\n👉🏻 Te brindaremos Manual de instalador\n💻 _*Importante*: Para la instalación se necesita una Laptop *Windows*_\n\n🚨 *Por favor, revisa el BROCHURE* 👇🏻\nAqui encontrarás la información completa del programa, el TEMARIO (malla curricular) y todos los BENEFICIOS 📚",
     "POSTDOCEN": "images/espfrontend.jpg",
     "AVALADO": "",
@@ -8050,7 +7866,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-176",
+    "LLAVE KEY": "PWE-172",
     "EDICION": "FEB. I - ED26",
     "LINEA": "WEB",
     "CATEGORIA": "CURSO",
@@ -8096,7 +7912,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-177",
+    "LLAVE KEY": "PWE-173",
     "EDICION": "FEB. I - ED26",
     "LINEA": "FINANZ",
     "CATEGORIA": "DIPLOMADO",
@@ -8142,7 +7958,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-178",
+    "LLAVE KEY": "PWE-174",
     "EDICION": "FEB. I - ED26",
     "LINEA": "FINANZ",
     "CATEGORIA": "CURSO",
@@ -8188,7 +8004,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-179",
+    "LLAVE KEY": "PWE-175",
     "EDICION": "FEB. I - ED26",
     "LINEA": "IA",
     "CATEGORIA": "CURSO",
@@ -8234,7 +8050,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-180",
+    "LLAVE KEY": "PWE-176",
     "EDICION": "FEB. I - ED26",
     "LINEA": "BI",
     "CATEGORIA": "CURSO",
@@ -8280,7 +8096,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-181",
+    "LLAVE KEY": "PWE-177",
     "EDICION": "FEB. I - ED26",
     "LINEA": "SAP",
     "CATEGORIA": "CURSO",
@@ -8326,7 +8142,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-182",
+    "LLAVE KEY": "PWE-178",
     "EDICION": "FEB. I - ED26",
     "LINEA": "BI",
     "CATEGORIA": "CURSO",
@@ -8372,7 +8188,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-183",
+    "LLAVE KEY": "PWE-179",
     "EDICION": "FEB. I - ED26",
     "LINEA": "SAP",
     "CATEGORIA": "CURSO",
@@ -8418,7 +8234,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-184",
+    "LLAVE KEY": "PWE-180",
     "EDICION": "FEB. I - ED26",
     "LINEA": "MINERA",
     "CATEGORIA": "CURSO",
@@ -8464,7 +8280,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-185",
+    "LLAVE KEY": "PWE-181",
     "EDICION": "FEB. I - ED26",
     "LINEA": "LOGÍSTICA",
     "CATEGORIA": "DIPLOMADO",
@@ -8510,7 +8326,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-186",
+    "LLAVE KEY": "PWE-182",
     "EDICION": "FEB. I - ED26",
     "LINEA": "LOGÍSTICA",
     "CATEGORIA": "CURSO",
@@ -8556,7 +8372,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-187",
+    "LLAVE KEY": "PWE-183",
     "EDICION": "FEB. I - ED26",
     "LINEA": "PROCESOS",
     "CATEGORIA": "ESP.",
@@ -8578,7 +8394,7 @@
     "INICIO": "Jueves 12 Febrero",
     "FIN": "Martes 24 Marzo",
     "SESIONES": 12,
-    "BROCHURE": "pdfs/BROCHURE ESPECIALIZACION DE POWER APSS Y POWER AUTOMATE",
+    "BROCHURE": "pdfs/BROCHURE ESPECIALIZACION DE POWER APSS Y POWER AUTOMATE.pdf",
     "BENEFICIOS": "🔵 *¡Te brindaremos LICENCIAS durante el curso!*\n👉🏼 Microsoft Power Apps ⚡\n👉🏼 Microsoft Power Automate ⚡\n\n🚨 *Por favor, revisa el BROCHURE* 👇🏻\nAqui encontrarás la información completa del programa, el TEMARIO (malla curricular) y todos los BENEFICIOS 📚",
     "POSTDOCEN": "images/esppowerapp.jpg",
     "AVALADO": "Avalado por Microsoft Partner Network",
@@ -8602,7 +8418,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-188",
+    "LLAVE KEY": "PWE-184",
     "EDICION": "FEB. I - ED26",
     "LINEA": "PROCESOS",
     "CATEGORIA": "CURSO",
@@ -8648,7 +8464,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-189",
+    "LLAVE KEY": "PWE-185",
     "EDICION": "FEB. I - ED26",
     "LINEA": "SAP",
     "CATEGORIA": "CURSO",
@@ -8694,7 +8510,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-190",
+    "LLAVE KEY": "PWE-186",
     "EDICION": "FEB. I - ED26",
     "LINEA": "SAP",
     "CATEGORIA": "CURSO",
@@ -8740,7 +8556,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-191",
+    "LLAVE KEY": "PWE-187",
     "EDICION": "FEB. I - ED26",
     "LINEA": "BI",
     "CATEGORIA": "CURSO",
@@ -8786,7 +8602,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-192",
+    "LLAVE KEY": "PWE-188",
     "EDICION": "FEB. I - ED26",
     "LINEA": "PROCESOS",
     "CATEGORIA": "CURSO",
@@ -8832,7 +8648,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-193",
+    "LLAVE KEY": "PWE-189",
     "EDICION": "FEB. I - ED26",
     "LINEA": "LOGÍSTICA",
     "CATEGORIA": "CURSO",
@@ -8859,15 +8675,15 @@
     "POSTDOCEN": "images/transpo.jpg",
     "AVALADO": "",
     "CURSO MES": "NO",
-    "INV PRO T": 830,
-    "INV EST T": 770,
-    "INV PRO": 415,
-    "INV EST": 385,
+    "INV PRO T": 820,
+    "INV EST T": 710,
+    "INV PRO": 410,
+    "INV EST": 355,
     "RESEST": 150,
     "RESPRO": 150,
     "VIDEO": "",
-    "EXEST": 346.5,
-    "EXPRO": 373.5,
+    "EXEST": 319.5,
+    "EXPRO": 369,
     "PERSONALIZADO": "La competitividad empresarial depende de una logística eficiente 📦\nCon Gestión de Transportes aprenderás a planificar, coordinar y optimizar rutas y costos en casos reales 🚛.\nAquí te comparto la información 👇🏻",
     "RES1": "🌍 *Excelente*, actualízate con *GEST TRANSPORTES* y mantente competitivo en el mercado laboral.",
     "RES2": "📘 Buenísimo, *GEST TRANSPORTES* es de las competencias más pedidas por las empresas y aumentará tus oportunidades laborales.",
@@ -8878,7 +8694,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-194",
+    "LLAVE KEY": "PWE-190",
     "EDICION": "FEB. II - ED26",
     "LINEA": "BI",
     "CATEGORIA": "CURSO",
@@ -8924,7 +8740,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-195",
+    "LLAVE KEY": "PWE-191",
     "EDICION": "FEB. II - ED26",
     "LINEA": "BI",
     "CATEGORIA": "CURSO",
@@ -8970,7 +8786,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-196",
+    "LLAVE KEY": "PWE-192",
     "EDICION": "FEB. I - ED26",
     "LINEA": "PROCESOS",
     "CATEGORIA": "CURSO",
@@ -8997,15 +8813,15 @@
     "POSTDOCEN": "images/kpis.jpg",
     "AVALADO": "Avalado por Microsoft Partner Network",
     "CURSO MES": "NO",
-    "INV PRO T": 700,
-    "INV EST T": 636,
-    "INV PRO": 350,
-    "INV EST": 318,
+    "INV PRO T": 650,
+    "INV EST T": 580,
+    "INV PRO": 325,
+    "INV EST": 290,
     "RESEST": 150,
     "RESPRO": 150,
     "VIDEO": "",
-    "EXEST": 286.2,
-    "EXPRO": 315,
+    "EXEST": 261,
+    "EXPRO": 292.5,
     "PERSONALIZADO": "El éxito de los líderes está en medir lo que importa 📈\nCon KPIs y OKRs aprenderás a establecer indicadores y objetivos estratégicos aplicados a casos reales 💼.\nAquí la información completa 👇🏻",
     "RES1": "🌍 *Excelente*, actualízate con *KPIS Y OKRS* y mantente competitivo en el mercado laboral.",
     "RES2": "✨ Buenísimo, *KPIS Y OKRS* es de las competencias más pedidas por las empresas y aumentará tus oportunidades laborales.",
@@ -9016,7 +8832,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-197",
+    "LLAVE KEY": "PWE-193",
     "EDICION": "FEB. I - ED26",
     "LINEA": "EXCEL",
     "CATEGORIA": "CURSO",
@@ -9062,7 +8878,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-198",
+    "LLAVE KEY": "PWE-194",
     "EDICION": "FEB. I - ED26",
     "LINEA": "EXCEL",
     "CATEGORIA": "ESP.",
@@ -9108,7 +8924,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-199",
+    "LLAVE KEY": "PWE-195",
     "EDICION": "FEB. I - ED26",
     "LINEA": "EXCEL",
     "CATEGORIA": "ESP.",
@@ -9154,7 +8970,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-200",
+    "LLAVE KEY": "PWE-196",
     "EDICION": "FEB. I - ED26",
     "LINEA": "EXCEL",
     "CATEGORIA": "CURSO",
@@ -9200,7 +9016,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-201",
+    "LLAVE KEY": "PWE-197",
     "EDICION": "FEB. I - ED26",
     "LINEA": "BI",
     "CATEGORIA": "ESP.",
@@ -9246,7 +9062,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-202",
+    "LLAVE KEY": "PWE-198",
     "EDICION": "FEB. II - ED26",
     "LINEA": "BI",
     "CATEGORIA": "CURSO",
@@ -9292,7 +9108,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-203",
+    "LLAVE KEY": "PWE-199",
     "EDICION": "FEB. I - ED26",
     "LINEA": "SAP",
     "CATEGORIA": "CURSO",
@@ -9338,7 +9154,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-204",
+    "LLAVE KEY": "PWE-200",
     "EDICION": "FEB. I - ED26",
     "LINEA": "LOGÍSTICA",
     "CATEGORIA": "CURSO",
@@ -9384,7 +9200,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-205",
+    "LLAVE KEY": "PWE-201",
     "EDICION": "FEB. I - ED26",
     "LINEA": "FINANZ",
     "CATEGORIA": "CURSO",
@@ -9400,7 +9216,7 @@
     "INICIO4": "",
     "CURSO5": "",
     "INICIO5": "",
-    "DOCENTE": "José Botonero",
+    "DOCENTE": "Guillermo Cevallos",
     "DIAS": "Mar-Jue",
     "HORARIO": "7PM - 10PM",
     "INICIO": "Jueves 19 Febrero",
@@ -9430,7 +9246,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-206",
+    "LLAVE KEY": "PWE-202",
     "EDICION": "FEB. I - ED26",
     "LINEA": "BI",
     "CATEGORIA": "PEE",
@@ -9476,7 +9292,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-207",
+    "LLAVE KEY": "PWE-203",
     "EDICION": "FEB. I - ED26",
     "LINEA": "BI",
     "CATEGORIA": "CURSO",
@@ -9522,7 +9338,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-208",
+    "LLAVE KEY": "PWE-204",
     "EDICION": "FEB. I - ED26",
     "LINEA": "SAP",
     "CATEGORIA": "CURSO",
@@ -9568,7 +9384,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-209",
+    "LLAVE KEY": "PWE-205",
     "EDICION": "FEB. I - ED26",
     "LINEA": "SAP",
     "CATEGORIA": "CURSO",
@@ -9614,7 +9430,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-210",
+    "LLAVE KEY": "PWE-206",
     "EDICION": "FEB. I - ED26",
     "LINEA": "LOGÍSTICA",
     "CATEGORIA": "CURSO",
@@ -9660,7 +9476,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-211",
+    "LLAVE KEY": "PWE-207",
     "EDICION": "FEB. I - ED26",
     "LINEA": "BI",
     "CATEGORIA": "DIPLOMADO",
@@ -9706,7 +9522,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-212",
+    "LLAVE KEY": "PWE-208",
     "EDICION": "FEB. I - ED26",
     "LINEA": "BI",
     "CATEGORIA": "CURSO",
@@ -9752,7 +9568,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-213",
+    "LLAVE KEY": "PWE-209",
     "EDICION": "FEB. I - ED26",
     "LINEA": "PROCESOS",
     "CATEGORIA": "CURSO",
@@ -9798,7 +9614,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-214",
+    "LLAVE KEY": "PWE-210",
     "EDICION": "FEB. I - ED26",
     "LINEA": "PROYECTOS",
     "CATEGORIA": "DIPLOMADO",
@@ -9844,7 +9660,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-215",
+    "LLAVE KEY": "PWE-211",
     "EDICION": "FEB. I - ED26",
     "LINEA": "PROYECTOS",
     "CATEGORIA": "PEE",
@@ -9890,7 +9706,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-216",
+    "LLAVE KEY": "PWE-212",
     "EDICION": "FEB. I - ED26",
     "LINEA": "PROYECTOS",
     "CATEGORIA": "ESP.",
@@ -9936,7 +9752,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-217",
+    "LLAVE KEY": "PWE-213",
     "EDICION": "FEB. I - ED26",
     "LINEA": "PROYECTOS",
     "CATEGORIA": "CURSO",
@@ -9982,7 +9798,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-218",
+    "LLAVE KEY": "PWE-214",
     "EDICION": "FEB. I - ED26",
     "LINEA": "PROYECTOS",
     "CATEGORIA": "CURSO",
@@ -10028,7 +9844,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-219",
+    "LLAVE KEY": "PWE-215",
     "EDICION": "FEB. I - ED26",
     "LINEA": "PROYECTOS",
     "CATEGORIA": "CURSO",
@@ -10074,7 +9890,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-220",
+    "LLAVE KEY": "PWE-216",
     "EDICION": "FEB. I - ED26",
     "LINEA": "PROCESOS",
     "CATEGORIA": "DIPLOMADO",
@@ -10120,7 +9936,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-221",
+    "LLAVE KEY": "PWE-217",
     "EDICION": "FEB. I - ED26",
     "LINEA": "PROCESOS",
     "CATEGORIA": "PEE",
@@ -10166,7 +9982,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-222",
+    "LLAVE KEY": "PWE-218",
     "EDICION": "FEB. I - ED26",
     "LINEA": "PROCESOS",
     "CATEGORIA": "CURSO",
@@ -10212,7 +10028,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-223",
+    "LLAVE KEY": "PWE-219",
     "EDICION": "FEB. II - ED26",
     "LINEA": "SAP",
     "CATEGORIA": "CURSO",
@@ -10258,7 +10074,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-224",
+    "LLAVE KEY": "PWE-220",
     "EDICION": "FEB. I - ED26",
     "LINEA": "BI",
     "CATEGORIA": "CURSO",
@@ -10304,7 +10120,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-225",
+    "LLAVE KEY": "PWE-221",
     "EDICION": "FEB. I - ED26",
     "LINEA": "BI",
     "CATEGORIA": "ESP.",
@@ -10350,7 +10166,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-226",
+    "LLAVE KEY": "PWE-222",
     "EDICION": "FEB. II - ED26",
     "LINEA": "BI",
     "CATEGORIA": "CURSO",
@@ -10396,7 +10212,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-227",
+    "LLAVE KEY": "PWE-223",
     "EDICION": "FEB. I - ED26",
     "LINEA": "SAP",
     "CATEGORIA": "ESP.",
@@ -10442,7 +10258,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-228",
+    "LLAVE KEY": "PWE-224",
     "EDICION": "FEB. I - ED26",
     "LINEA": "SAP",
     "CATEGORIA": "ESP.",
@@ -10488,7 +10304,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-229",
+    "LLAVE KEY": "PWE-225",
     "EDICION": "FEB. I - ED26",
     "LINEA": "PROCESOS",
     "CATEGORIA": "CURSO",
@@ -10534,7 +10350,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-230",
+    "LLAVE KEY": "PWE-226",
     "EDICION": "MAR. I - ED26",
     "LINEA": "PROYECTOS",
     "CATEGORIA": "CURSO",
@@ -10580,7 +10396,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-231",
+    "LLAVE KEY": "PWE-227",
     "EDICION": "MAR. I - ED26",
     "LINEA": "SAP",
     "CATEGORIA": "CURSO",
@@ -10626,7 +10442,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-232",
+    "LLAVE KEY": "PWE-228",
     "EDICION": "MAR. I - ED26",
     "LINEA": "LOGÍSTICA",
     "CATEGORIA": "CURSO",
@@ -10672,7 +10488,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-233",
+    "LLAVE KEY": "PWE-229",
     "EDICION": "MAR. I - ED26",
     "LINEA": "LOGÍSTICA",
     "CATEGORIA": "CURSO",
@@ -10718,7 +10534,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-234",
+    "LLAVE KEY": "PWE-230",
     "EDICION": "MAR. I - ED26",
     "LINEA": "PROCESOS",
     "CATEGORIA": "CURSO",
@@ -10764,7 +10580,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-235",
+    "LLAVE KEY": "PWE-231",
     "EDICION": "MAR. I - ED26",
     "LINEA": "MKT",
     "CATEGORIA": "CURSO",
@@ -10810,7 +10626,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-236",
+    "LLAVE KEY": "PWE-232",
     "EDICION": "MAR. I - ED26",
     "LINEA": "PROCESOS",
     "CATEGORIA": "ESP.",
@@ -10832,7 +10648,7 @@
     "INICIO": "Sábado 7 Marzo",
     "FIN": "Sábado 13 Junio",
     "SESIONES": 12,
-    "BROCHURE": "pdfs/BROCHURE ESPECIALIZACION DE POWER APSS Y POWER AUTOMATE",
+    "BROCHURE": "pdfs/BROCHURE ESPECIALIZACION DE POWER APSS Y POWER AUTOMATE.pdf",
     "BENEFICIOS": "🔵 *¡Te brindaremos LICENCIAS durante el curso!*\n👉🏼 Microsoft Power Apps ⚡\n👉🏼 Microsoft Power Automate ⚡\n\n🚨 *Por favor, revisa el BROCHURE* 👇🏻\nAqui encontrarás la información completa del programa, el TEMARIO (malla curricular) y todos los BENEFICIOS 📚",
     "POSTDOCEN": "images/esppowerapp.jpg",
     "AVALADO": "Avalado por Microsoft Partner Network",
@@ -10856,7 +10672,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-237",
+    "LLAVE KEY": "PWE-233",
     "EDICION": "MAR. I - ED26",
     "LINEA": "PROCESOS",
     "CATEGORIA": "CURSO",
@@ -10902,7 +10718,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-238",
+    "LLAVE KEY": "PWE-234",
     "EDICION": "MAR. I - ED26",
     "LINEA": "WEB",
     "CATEGORIA": "CURSO",
@@ -10948,7 +10764,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-239",
+    "LLAVE KEY": "PWE-235",
     "EDICION": "MAR. I - ED26",
     "LINEA": "EXCEL",
     "CATEGORIA": "ESP.",
@@ -10994,7 +10810,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-240",
+    "LLAVE KEY": "PWE-236",
     "EDICION": "MAR. I - ED26",
     "LINEA": "EXCEL",
     "CATEGORIA": "CURSO",
@@ -11040,7 +10856,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-241",
+    "LLAVE KEY": "PWE-237",
     "EDICION": "MAR. I - ED26",
     "LINEA": "EXCEL",
     "CATEGORIA": "CURSO",
@@ -11086,7 +10902,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-242",
+    "LLAVE KEY": "PWE-238",
     "EDICION": "MAR. I - ED26",
     "LINEA": "PROCESOS",
     "CATEGORIA": "CURSO",
@@ -11132,7 +10948,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-243",
+    "LLAVE KEY": "PWE-239",
     "EDICION": "MAR. I - ED26",
     "LINEA": "BI",
     "CATEGORIA": "CURSO",
@@ -11178,7 +10994,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-244",
+    "LLAVE KEY": "PWE-240",
     "EDICION": "MAR. I - ED26",
     "LINEA": "SAP",
     "CATEGORIA": "CURSO",
@@ -11194,7 +11010,7 @@
     "INICIO4": "",
     "CURSO5": "",
     "INICIO5": "",
-    "DOCENTE": "Andy Leyton\n",
+    "DOCENTE": "Eduardo Eyzaguirre",
     "DIAS": "Mar-Jue",
     "HORARIO": "7PM - 10PM",
     "INICIO": "Jueves 12 Marzo",
@@ -11224,7 +11040,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-245",
+    "LLAVE KEY": "PWE-241",
     "EDICION": "MAR. I - ED26",
     "LINEA": "BI",
     "CATEGORIA": "CURSO",
@@ -11270,7 +11086,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-246",
+    "LLAVE KEY": "PWE-242",
     "EDICION": "MAR. I - ED26",
     "LINEA": "ADMINISTRACIÓN",
     "CATEGORIA": "CURSO",
@@ -11316,7 +11132,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-247",
+    "LLAVE KEY": "PWE-243",
     "EDICION": "MAR. I - ED26",
     "LINEA": "LOGÍSTICA",
     "CATEGORIA": "DIPLOMADO",
@@ -11362,7 +11178,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-248",
+    "LLAVE KEY": "PWE-244",
     "EDICION": "MAR. I - ED26",
     "LINEA": "LOGÍSTICA",
     "CATEGORIA": "CURSO",
@@ -11408,7 +11224,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-249",
+    "LLAVE KEY": "PWE-245",
     "EDICION": "MAR. I - ED26",
     "LINEA": "EXCEL",
     "CATEGORIA": "CURSO",
@@ -11454,7 +11270,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-250",
+    "LLAVE KEY": "PWE-246",
     "EDICION": "MAR. II - ED26",
     "LINEA": "EXCEL",
     "CATEGORIA": "CURSO",
@@ -11500,7 +11316,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-251",
+    "LLAVE KEY": "PWE-247",
     "EDICION": "MAR. I - ED26",
     "LINEA": "PROCESOS",
     "CATEGORIA": "CURSO",
@@ -11546,7 +11362,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-252",
+    "LLAVE KEY": "PWE-248",
     "EDICION": "MAR. I - ED26",
     "LINEA": "PROYECTOS",
     "CATEGORIA": "CURSO",
@@ -11592,7 +11408,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-253",
+    "LLAVE KEY": "PWE-249",
     "EDICION": "MAR. I - ED26",
     "LINEA": "EXCEL",
     "CATEGORIA": "ESP.",
@@ -11638,7 +11454,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-254",
+    "LLAVE KEY": "PWE-250",
     "EDICION": "MAR. I - ED26",
     "LINEA": "EXCEL",
     "CATEGORIA": "ESP.",
@@ -11684,7 +11500,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-255",
+    "LLAVE KEY": "PWE-251",
     "EDICION": "MAR. I - ED26",
     "LINEA": "EXCEL",
     "CATEGORIA": "CURSO",
@@ -11730,7 +11546,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-256",
+    "LLAVE KEY": "PWE-252",
     "EDICION": "MAR. I - ED26",
     "LINEA": "SAP",
     "CATEGORIA": "CURSO",
@@ -11776,7 +11592,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-257",
+    "LLAVE KEY": "PWE-253",
     "EDICION": "MAR. I - ED26",
     "LINEA": "BI",
     "CATEGORIA": "ESP.",
@@ -11822,7 +11638,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-258",
+    "LLAVE KEY": "PWE-254",
     "EDICION": "MAR. I - ED26",
     "LINEA": "BI",
     "CATEGORIA": "CURSO",
@@ -11868,7 +11684,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-259",
+    "LLAVE KEY": "PWE-255",
     "EDICION": "MAR. II - ED26",
     "LINEA": "PROYECTOS",
     "CATEGORIA": "CURSO",
@@ -11914,7 +11730,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-260",
+    "LLAVE KEY": "PWE-256",
     "EDICION": "MAR. I - ED26",
     "LINEA": "SAP",
     "CATEGORIA": "CURSO",
@@ -11960,7 +11776,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-261",
+    "LLAVE KEY": "PWE-257",
     "EDICION": "MAR. I - ED26",
     "LINEA": "BI",
     "CATEGORIA": "ESP.",
@@ -12006,7 +11822,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-262",
+    "LLAVE KEY": "PWE-258",
     "EDICION": "MAR. I - ED26",
     "LINEA": "BI",
     "CATEGORIA": "CURSO",
@@ -12052,7 +11868,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-263",
+    "LLAVE KEY": "PWE-259",
     "EDICION": "MAR. I - ED26",
     "LINEA": "BI",
     "CATEGORIA": "ESP.",
@@ -12098,7 +11914,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-264",
+    "LLAVE KEY": "PWE-260",
     "EDICION": "MAR. I - ED26",
     "LINEA": "BI",
     "CATEGORIA": "CURSO",
@@ -12144,7 +11960,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-265",
+    "LLAVE KEY": "PWE-261",
     "EDICION": "MAR. I - ED26",
     "LINEA": "FINANZ",
     "CATEGORIA": "ESP.",
@@ -12171,15 +11987,15 @@
     "POSTDOCEN": "",
     "AVALADO": "",
     "CURSO MES": "NO",
-    "INV PRO T": 2400,
-    "INV EST T": 2150,
-    "INV PRO": 1200,
-    "INV EST": 1075,
+    "INV PRO T": 2000,
+    "INV EST T": 1800,
+    "INV PRO": 1000,
+    "INV EST": 900,
     "RESEST": 200,
     "RESPRO": 250,
     "VIDEO": "",
-    "EXEST": 967.5,
-    "EXPRO": 1080,
+    "EXEST": 810,
+    "EXPRO": 900,
     "PERSONALIZADO": "La clave de toda empresa está en sus finanzas 💼\nDomina la gestión financiera con herramientas modernas y eleva tu perfil profesional 📈\n👉🏻 Te comparto la información.",
     "RES1": "💰 Excelente, actualízate en finanzas y domina decisiones estratégicas.",
     "RES2": "🏦 Buenísimo, el mercado busca expertos en análisis y control financiero.",
@@ -12190,7 +12006,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-266",
+    "LLAVE KEY": "PWE-262",
     "EDICION": "MAR. I - ED26",
     "LINEA": "FINANZ",
     "CATEGORIA": "CURSO",
@@ -12236,7 +12052,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-267",
+    "LLAVE KEY": "PWE-263",
     "EDICION": "MAR. I - ED26",
     "LINEA": "LOGÍSTICA",
     "CATEGORIA": "CURSO",
@@ -12282,7 +12098,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-268",
+    "LLAVE KEY": "PWE-264",
     "EDICION": "MAR. II - ED26",
     "LINEA": "BI",
     "CATEGORIA": "CURSO",
@@ -12328,7 +12144,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-269",
+    "LLAVE KEY": "PWE-265",
     "EDICION": "MAR. I - ED26",
     "LINEA": "BI",
     "CATEGORIA": "DIPLOMADO",
@@ -12374,7 +12190,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-270",
+    "LLAVE KEY": "PWE-266",
     "EDICION": "MAR. I - ED26",
     "LINEA": "BI",
     "CATEGORIA": "CURSO",
@@ -12420,7 +12236,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-271",
+    "LLAVE KEY": "PWE-267",
     "EDICION": "MAR. I - ED26",
     "LINEA": "SAP",
     "CATEGORIA": "ESP.",
@@ -12466,7 +12282,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-272",
+    "LLAVE KEY": "PWE-268",
     "EDICION": "MAR. I - ED26",
     "LINEA": "SAP",
     "CATEGORIA": "ESP.",
@@ -12512,7 +12328,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-273",
+    "LLAVE KEY": "PWE-269",
     "EDICION": "MAR. I - ED26",
     "LINEA": "SAP",
     "CATEGORIA": "ESP.",
@@ -12558,7 +12374,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-274",
+    "LLAVE KEY": "PWE-270",
     "EDICION": "MAR. II - ED26",
     "LINEA": "LOGÍSTICA",
     "CATEGORIA": "CURSO",
@@ -12604,7 +12420,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-275",
+    "LLAVE KEY": "PWE-271",
     "EDICION": "MAR. I - ED26",
     "LINEA": "SAP",
     "CATEGORIA": "CURSO",
@@ -12650,7 +12466,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-276",
+    "LLAVE KEY": "PWE-272",
     "EDICION": "MAR. I - ED26",
     "LINEA": "WEB",
     "CATEGORIA": "CURSO",
@@ -12696,7 +12512,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-277",
+    "LLAVE KEY": "PWE-273",
     "EDICION": "MAR. I - ED26",
     "LINEA": "BI",
     "CATEGORIA": "CURSO",
@@ -12742,7 +12558,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-278",
+    "LLAVE KEY": "PWE-274",
     "EDICION": "MAR. II - ED26",
     "LINEA": "PROCESOS",
     "CATEGORIA": "ESP.",
@@ -12764,7 +12580,7 @@
     "INICIO": "Sábado 28 Marzo",
     "FIN": "Sábado 20 Junio",
     "SESIONES": 12,
-    "BROCHURE": "pdfs/BROCHURE ESPECIALIZACION DE POWER APSS Y POWER AUTOMATE",
+    "BROCHURE": "pdfs/BROCHURE ESPECIALIZACION DE POWER APSS Y POWER AUTOMATE.pdf",
     "BENEFICIOS": "🔵 *¡Te brindaremos LICENCIAS durante el curso!*\n👉🏼 Microsoft Power Apps ⚡\n👉🏼 Microsoft Power Automate ⚡\n\n🚨 *Por favor, revisa el BROCHURE* 👇🏻\nAqui encontrarás la información completa del programa, el TEMARIO (malla curricular) y todos los BENEFICIOS 📚",
     "POSTDOCEN": "images/esppowerapp.jpg",
     "AVALADO": "Avalado por Microsoft Partner Network",
@@ -12788,7 +12604,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-279",
+    "LLAVE KEY": "PWE-275",
     "EDICION": "MAR. II - ED26",
     "LINEA": "PROCESOS",
     "CATEGORIA": "CURSO",
@@ -12834,7 +12650,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-280",
+    "LLAVE KEY": "PWE-276",
     "EDICION": "MAR. I - ED26",
     "LINEA": "AGRONOMÍA",
     "CATEGORIA": "CURSO",
@@ -12880,7 +12696,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-281",
+    "LLAVE KEY": "PWE-277",
     "EDICION": "MAR. I - ED26",
     "LINEA": "PROCESOS",
     "CATEGORIA": "DIPLOMADO",
@@ -12926,7 +12742,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-282",
+    "LLAVE KEY": "PWE-278",
     "EDICION": "MAR. I - ED26",
     "LINEA": "PROCESOS",
     "CATEGORIA": "PEE",
@@ -12972,7 +12788,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-283",
+    "LLAVE KEY": "PWE-279",
     "EDICION": "MAR. I - ED26",
     "LINEA": "PROCESOS",
     "CATEGORIA": "CURSO",
@@ -13018,7 +12834,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-284",
+    "LLAVE KEY": "PWE-280",
     "EDICION": "MAR. I - ED26",
     "LINEA": "BI",
     "CATEGORIA": "CURSO",
@@ -13064,7 +12880,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-285",
+    "LLAVE KEY": "PWE-281",
     "EDICION": "MAR. I - ED26",
     "LINEA": "BI",
     "CATEGORIA": "CURSO",
@@ -13110,7 +12926,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-286",
+    "LLAVE KEY": "PWE-282",
     "EDICION": "ABR. I - ED26",
     "LINEA": "PROCESOS",
     "CATEGORIA": "CURSO",
@@ -13156,7 +12972,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-287",
+    "LLAVE KEY": "PWE-283",
     "EDICION": "ABR. I - ED26",
     "LINEA": "EXCEL",
     "CATEGORIA": "ESP.",
@@ -13202,7 +13018,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-288",
+    "LLAVE KEY": "PWE-284",
     "EDICION": "ABR. I - ED26",
     "LINEA": "EXCEL",
     "CATEGORIA": "CURSO",
@@ -13248,7 +13064,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-289",
+    "LLAVE KEY": "PWE-285",
     "EDICION": "ABR. I - ED26",
     "LINEA": "SAP",
     "CATEGORIA": "CURSO",
@@ -13275,15 +13091,15 @@
     "POSTDOCEN": "images/sappm.jpg",
     "AVALADO": "Avalado por SAP Partner Open",
     "CURSO MES": "NO",
-    "INV PRO T": 900,
-    "INV EST T": 750,
-    "INV PRO": 450,
-    "INV EST": 375,
+    "INV PRO T": 850,
+    "INV EST T": 710,
+    "INV PRO": 425,
+    "INV EST": 355,
     "RESEST": 150,
     "RESPRO": 150,
     "VIDEO": "",
-    "EXEST": 337.5,
-    "EXPRO": 405,
+    "EXEST": 319.5,
+    "EXPRO": 382.5,
     "PERSONALIZADO": "El lenguaje del mantenimiento eficiente es SAP HANA PM ⚙️\nAprenderás a planificar, controlar y optimizar la gestión de mantenimiento en empresas reales 🚀.\nAquí tienes la información 👇🏻",
     "RES1": "🛠️ Excelente, actualízate con SAP PM y domina el mantenimiento de planta y equipos.",
     "RES2": "💼 Buenísimo, SAP PM es clave en empresas de manufactura y energía.",
@@ -13294,53 +13110,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-290",
-    "EDICION": "ABR. I - ED26",
-    "LINEA": "SAP",
-    "CATEGORIA": "CURSO",
-    "PROGRAMA": "SAP HANA FI",
-    "INICIO6": "4/4/2026",
-    "CURSO1": "",
-    "INICIO1": "",
-    "CURSO2": "",
-    "INICIO2": "",
-    "CURSO3": "",
-    "INICIO3": "",
-    "CURSO4": "",
-    "INICIO4": "",
-    "CURSO5": "",
-    "INICIO5": "",
-    "DOCENTE": "Indira Carhuas",
-    "DIAS": "Sáb",
-    "HORARIO": "3PM - 6PM",
-    "INICIO": "Sábado 4 Abril",
-    "FIN": "Sábado 9 Mayo",
-    "SESIONES": 6,
-    "BROCHURE": "pdfs/BROCHURE SAP HANA FI MODULO FINANZAS.pdf",
-    "BENEFICIOS": "🔵 *Utilizarán SAP HANA* 👩🏻‍💻\n👉🏼 Incluye tutorial y manual de instalación\n👉🏼 12 meses de Licencia SAP para practicar\n👉🏼 Contarás con Soporte técnico\n💻 _*Importante*: Para la instalación se necesita una Laptop *Windows*_\n\n🚨 *Por favor, revisa el BROCHURE* 👇🏻\nAqui encontrarás la información completa del programa, el TEMARIO (malla curricular) y todos los BENEFICIOS 📚",
-    "POSTDOCEN": "images/sapfi.jpg",
-    "AVALADO": "Avalado por SAP Partner Open",
-    "CURSO MES": "NO",
-    "INV PRO T": 900,
-    "INV EST T": 750,
-    "INV PRO": 450,
-    "INV EST": 375,
-    "RESEST": 150,
-    "RESPRO": 150,
-    "VIDEO": "",
-    "EXEST": 337.5,
-    "EXPRO": 405,
-    "PERSONALIZADO": "El lenguaje financiero global se habla con SAP HANA FI 💼\nCon este programa aprenderás a gestionar contabilidad y finanzas de forma práctica en SAP 🚀.\nAquí la información completa 👇🏻",
-    "RES1": "💰 Excelente, actualízate con SAP FI y domina la gestión financiera en SAP.",
-    "RES2": "💼 Buenísimo, SAP FI es clave en empresas que manejan contabilidad y finanzas.",
-    "RES3": "🎓 ¡Genial! Aprender SAP FI en la universidad fortalecerá tu perfil en finanzas.",
-    "RES4": "🚀 ¡Perfecto! Con SAP FI tendrás ventaja en prácticas de contabilidad y finanzas.",
-    "RES5": "📊 ¡Excelente! Con SAP FI podrás llevar la contabilidad de tu negocio con precisión.",
-    "ENLACE": "https://we-educacion.com/slides/sap-s-4-hana-fi-54",
-    "HABITILITADO": 1
-  },
-  {
-    "LLAVE KEY": "PWE-291",
+    "LLAVE KEY": "PWE-286",
     "EDICION": "ABR. I - ED26",
     "LINEA": "PROYECTOS",
     "CATEGORIA": "CURSO",
@@ -13386,7 +13156,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-292",
+    "LLAVE KEY": "PWE-287",
     "EDICION": "ABR. I - ED26",
     "LINEA": "PROYECTOS",
     "CATEGORIA": "CURSO",
@@ -13432,7 +13202,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-293",
+    "LLAVE KEY": "PWE-288",
     "EDICION": "ABR. II - ED26",
     "LINEA": "PROYECTOS",
     "CATEGORIA": "CURSO",
@@ -13478,7 +13248,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-294",
+    "LLAVE KEY": "PWE-289",
     "EDICION": "ABR. I - ED26",
     "LINEA": "DISEÑO Y MODELO GRÁFICO",
     "CATEGORIA": "CURSO",
@@ -13524,7 +13294,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-295",
+    "LLAVE KEY": "PWE-290",
     "EDICION": "ABR. I - ED26",
     "LINEA": "BI",
     "CATEGORIA": "ESP.",
@@ -13570,7 +13340,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-296",
+    "LLAVE KEY": "PWE-291",
     "EDICION": "ABR. II - ED26",
     "LINEA": "PROYECTOS",
     "CATEGORIA": "CURSO",
@@ -13616,7 +13386,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-297",
+    "LLAVE KEY": "PWE-292",
     "EDICION": "ABR. I - ED26",
     "LINEA": "BI",
     "CATEGORIA": "CURSO",
@@ -13662,7 +13432,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-298",
+    "LLAVE KEY": "PWE-293",
     "EDICION": "ABR. I - ED26",
     "LINEA": "BI",
     "CATEGORIA": "CURSO",
@@ -13708,7 +13478,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-299",
+    "LLAVE KEY": "PWE-294",
     "EDICION": "ABR. I - ED26",
     "LINEA": "LOGÍSTICA",
     "CATEGORIA": "CURSO",
@@ -13735,15 +13505,15 @@
     "POSTDOCEN": "images/transpo.jpg",
     "AVALADO": "",
     "CURSO MES": "NO",
-    "INV PRO T": 830,
-    "INV EST T": 770,
-    "INV PRO": 415,
-    "INV EST": 385,
+    "INV PRO T": 820,
+    "INV EST T": 710,
+    "INV PRO": 410,
+    "INV EST": 355,
     "RESEST": 150,
     "RESPRO": 150,
     "VIDEO": "",
-    "EXEST": 346.5,
-    "EXPRO": 373.5,
+    "EXEST": 319.5,
+    "EXPRO": 369,
     "PERSONALIZADO": "La competitividad empresarial depende de una logística eficiente 📦\nCon Gestión de Transportes aprenderás a planificar, coordinar y optimizar rutas y costos en casos reales 🚛.\nAquí te comparto la información 👇🏻",
     "RES1": "🌍 *Excelente*, actualízate con *GEST TRANSPORTES* y mantente competitivo en el mercado laboral.",
     "RES2": "📘 Buenísimo, *GEST TRANSPORTES* es de las competencias más pedidas por las empresas y aumentará tus oportunidades laborales.",
@@ -13754,7 +13524,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-300",
+    "LLAVE KEY": "PWE-295",
     "EDICION": "ABR. I - ED26",
     "LINEA": "PROCESOS",
     "CATEGORIA": "CURSO",
@@ -13800,7 +13570,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-301",
+    "LLAVE KEY": "PWE-296",
     "EDICION": "ABR. I - ED26",
     "LINEA": "EXCEL",
     "CATEGORIA": "ESP.",
@@ -13846,7 +13616,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-302",
+    "LLAVE KEY": "PWE-297",
     "EDICION": "ABR. I - ED26",
     "LINEA": "EXCEL",
     "CATEGORIA": "ESP.",
@@ -13892,7 +13662,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-303",
+    "LLAVE KEY": "PWE-298",
     "EDICION": "ABR. I - ED26",
     "LINEA": "EXCEL",
     "CATEGORIA": "CURSO",
@@ -13938,7 +13708,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-304",
+    "LLAVE KEY": "PWE-299",
     "EDICION": "ABR. I - ED26",
     "LINEA": "BI",
     "CATEGORIA": "CURSO",
@@ -13984,7 +13754,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-305",
+    "LLAVE KEY": "PWE-300",
     "EDICION": "ABR. I - ED26",
     "LINEA": "EXCEL",
     "CATEGORIA": "CURSO",
@@ -14030,7 +13800,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-306",
+    "LLAVE KEY": "PWE-301",
     "EDICION": "ABR. I - ED26",
     "LINEA": "SAP",
     "CATEGORIA": "CURSO",
@@ -14076,7 +13846,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-307",
+    "LLAVE KEY": "PWE-302",
     "EDICION": "ABR. I - ED26",
     "LINEA": "LOGÍSTICA",
     "CATEGORIA": "CURSO",
@@ -14122,7 +13892,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-308",
+    "LLAVE KEY": "PWE-303",
     "EDICION": "ABR. I - ED26",
     "LINEA": "PROCESOS",
     "CATEGORIA": "CURSO",
@@ -14149,15 +13919,15 @@
     "POSTDOCEN": "images/kpis.jpg",
     "AVALADO": "Avalado por Microsoft Partner Network",
     "CURSO MES": "NO",
-    "INV PRO T": 700,
-    "INV EST T": 636,
-    "INV PRO": 350,
-    "INV EST": 318,
+    "INV PRO T": 650,
+    "INV EST T": 580,
+    "INV PRO": 325,
+    "INV EST": 290,
     "RESEST": 150,
     "RESPRO": 150,
     "VIDEO": "",
-    "EXEST": 286.2,
-    "EXPRO": 315,
+    "EXEST": 261,
+    "EXPRO": 292.5,
     "PERSONALIZADO": "El éxito de los líderes está en medir lo que importa 📈\nCon KPIs y OKRs aprenderás a establecer indicadores y objetivos estratégicos aplicados a casos reales 💼.\nAquí la información completa 👇🏻",
     "RES1": "🌍 *Excelente*, actualízate con *KPIS Y OKRS* y mantente competitivo en el mercado laboral.",
     "RES2": "✨ Buenísimo, *KPIS Y OKRS* es de las competencias más pedidas por las empresas y aumentará tus oportunidades laborales.",
@@ -14168,7 +13938,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-309",
+    "LLAVE KEY": "PWE-304",
     "EDICION": "ABR. I - ED26",
     "LINEA": "EXCEL",
     "CATEGORIA": "CURSO",
@@ -14214,7 +13984,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-310",
+    "LLAVE KEY": "PWE-305",
     "EDICION": "ABR. I - ED26",
     "LINEA": "SAP",
     "CATEGORIA": "CURSO",
@@ -14260,8 +14030,8 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-311",
-    "EDICION": "ABR. II - ED26",
+    "LLAVE KEY": "PWE-306",
+    "EDICION": "ABR. I - ED26",
     "LINEA": "SAP",
     "CATEGORIA": "CURSO",
     "PROGRAMA": "SAP HANA FI",
@@ -14306,7 +14076,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-312",
+    "LLAVE KEY": "PWE-307",
     "EDICION": "ABR. I - ED26",
     "LINEA": "LOGÍSTICA",
     "CATEGORIA": "CURSO",
@@ -14352,7 +14122,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-313",
+    "LLAVE KEY": "PWE-308",
     "EDICION": "ABR. II - ED26",
     "LINEA": "BI",
     "CATEGORIA": "CURSO",
@@ -14398,7 +14168,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-314",
+    "LLAVE KEY": "PWE-309",
     "EDICION": "ABR. I - ED26",
     "LINEA": "BI",
     "CATEGORIA": "CURSO",
@@ -14444,7 +14214,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-315",
+    "LLAVE KEY": "PWE-310",
     "EDICION": "ABR. I - ED26",
     "LINEA": "BI",
     "CATEGORIA": "CURSO",
@@ -14490,7 +14260,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-316",
+    "LLAVE KEY": "PWE-311",
     "EDICION": "ABR. II - ED26",
     "LINEA": "LOGÍSTICA",
     "CATEGORIA": "CURSO",
@@ -14517,15 +14287,15 @@
     "POSTDOCEN": "images/transpo.jpg",
     "AVALADO": "",
     "CURSO MES": "NO",
-    "INV PRO T": 830,
-    "INV EST T": 770,
-    "INV PRO": 415,
-    "INV EST": 385,
+    "INV PRO T": 820,
+    "INV EST T": 710,
+    "INV PRO": 410,
+    "INV EST": 355,
     "RESEST": 150,
     "RESPRO": 150,
     "VIDEO": "",
-    "EXEST": 346.5,
-    "EXPRO": 373.5,
+    "EXEST": 319.5,
+    "EXPRO": 369,
     "PERSONALIZADO": "La competitividad empresarial depende de una logística eficiente 📦\nCon Gestión de Transportes aprenderás a planificar, coordinar y optimizar rutas y costos en casos reales 🚛.\nAquí te comparto la información 👇🏻",
     "RES1": "🌍 *Excelente*, actualízate con *GEST TRANSPORTES* y mantente competitivo en el mercado laboral.",
     "RES2": "📘 Buenísimo, *GEST TRANSPORTES* es de las competencias más pedidas por las empresas y aumentará tus oportunidades laborales.",
@@ -14536,7 +14306,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-317",
+    "LLAVE KEY": "PWE-312",
     "EDICION": "ABR. II - ED26",
     "LINEA": "BI",
     "CATEGORIA": "ESP.",
@@ -14582,7 +14352,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-318",
+    "LLAVE KEY": "PWE-313",
     "EDICION": "ABR. II - ED26",
     "LINEA": "EXCEL",
     "CATEGORIA": "CURSO",
@@ -14628,7 +14398,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-319",
+    "LLAVE KEY": "PWE-314",
     "EDICION": "ABR. I - ED26",
     "LINEA": "PROYECTOS",
     "CATEGORIA": "CURSO",
@@ -14674,7 +14444,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-320",
+    "LLAVE KEY": "PWE-315",
     "EDICION": "MAY. I - ED26",
     "LINEA": "EXCEL",
     "CATEGORIA": "CURSO",
@@ -14720,7 +14490,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-321",
+    "LLAVE KEY": "PWE-316",
     "EDICION": "MAY. I - ED26",
     "LINEA": "PROCESOS",
     "CATEGORIA": "CURSO",
@@ -14766,7 +14536,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-322",
+    "LLAVE KEY": "PWE-317",
     "EDICION": "MAY. I - ED26",
     "LINEA": "PROYECTOS",
     "CATEGORIA": "CURSO",
@@ -14812,7 +14582,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-323",
+    "LLAVE KEY": "PWE-318",
     "EDICION": "MAY. I - ED26",
     "LINEA": "LOGÍSTICA",
     "CATEGORIA": "CURSO",
@@ -14858,7 +14628,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-324",
+    "LLAVE KEY": "PWE-319",
     "EDICION": "MAY. I - ED26",
     "LINEA": "EXCEL",
     "CATEGORIA": "CURSO",
@@ -14904,7 +14674,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-325",
+    "LLAVE KEY": "PWE-320",
     "EDICION": "MAY. I - ED26",
     "LINEA": "BI",
     "CATEGORIA": "CURSO",
@@ -14950,7 +14720,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-326",
+    "LLAVE KEY": "PWE-321",
     "EDICION": "MAY. I - ED26",
     "LINEA": "PROCESOS",
     "CATEGORIA": "CURSO",
@@ -14996,7 +14766,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-327",
+    "LLAVE KEY": "PWE-322",
     "EDICION": "MAY. I - ED26",
     "LINEA": "FINANZ",
     "CATEGORIA": "CURSO",
@@ -15042,7 +14812,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-328",
+    "LLAVE KEY": "PWE-323",
     "EDICION": "MAY. I - ED26",
     "LINEA": "BI",
     "CATEGORIA": "CURSO",
@@ -15088,7 +14858,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-329",
+    "LLAVE KEY": "PWE-324",
     "EDICION": "MAY. I - ED26",
     "LINEA": "LOGÍSTICA",
     "CATEGORIA": "CURSO",
@@ -15134,7 +14904,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-330",
+    "LLAVE KEY": "PWE-325",
     "EDICION": "MAY. II - ED26",
     "LINEA": "BI",
     "CATEGORIA": "CURSO",
@@ -15180,7 +14950,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-331",
+    "LLAVE KEY": "PWE-326",
     "EDICION": "MAY. I - ED26",
     "LINEA": "SAP",
     "CATEGORIA": "CURSO",
@@ -15226,7 +14996,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-332",
+    "LLAVE KEY": "PWE-327",
     "EDICION": "MAY. I - ED26",
     "LINEA": "BI",
     "CATEGORIA": "CURSO",
@@ -15272,7 +15042,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-333",
+    "LLAVE KEY": "PWE-328",
     "EDICION": "MAY. II - ED26",
     "LINEA": "PROCESOS",
     "CATEGORIA": "CURSO",
@@ -15318,7 +15088,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-334",
+    "LLAVE KEY": "PWE-329",
     "EDICION": "MAY. I - ED26",
     "LINEA": "WEB",
     "CATEGORIA": "CURSO",
@@ -15364,7 +15134,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-335",
+    "LLAVE KEY": "PWE-330",
     "EDICION": "MAY. I - ED26",
     "LINEA": "PROCESOS",
     "CATEGORIA": "CURSO",
@@ -15410,7 +15180,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-336",
+    "LLAVE KEY": "PWE-331",
     "EDICION": "MAY. I - ED26",
     "LINEA": "BI",
     "CATEGORIA": "CURSO",
@@ -15456,7 +15226,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-337",
+    "LLAVE KEY": "PWE-332",
     "EDICION": "MAY. II - ED26",
     "LINEA": "PROYECTOS",
     "CATEGORIA": "CURSO",
@@ -15502,7 +15272,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-338",
+    "LLAVE KEY": "PWE-333",
     "EDICION": "MAY. II - ED26",
     "LINEA": "BI",
     "CATEGORIA": "CURSO",
@@ -15548,7 +15318,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-339",
+    "LLAVE KEY": "PWE-334",
     "EDICION": "MAY. II - ED26",
     "LINEA": "LOGÍSTICA",
     "CATEGORIA": "CURSO",
@@ -15594,7 +15364,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-340",
+    "LLAVE KEY": "PWE-335",
     "EDICION": "MAY. I - ED26",
     "LINEA": "LOGÍSTICA",
     "CATEGORIA": "CURSO",
@@ -15621,15 +15391,15 @@
     "POSTDOCEN": "images/transpo.jpg",
     "AVALADO": "",
     "CURSO MES": "NO",
-    "INV PRO T": 830,
-    "INV EST T": 770,
-    "INV PRO": 415,
-    "INV EST": 385,
+    "INV PRO T": 820,
+    "INV EST T": 710,
+    "INV PRO": 410,
+    "INV EST": 355,
     "RESEST": 150,
     "RESPRO": 150,
     "VIDEO": "",
-    "EXEST": 346.5,
-    "EXPRO": 373.5,
+    "EXEST": 319.5,
+    "EXPRO": 369,
     "PERSONALIZADO": "La competitividad empresarial depende de una logística eficiente 📦\nCon Gestión de Transportes aprenderás a planificar, coordinar y optimizar rutas y costos en casos reales 🚛.\nAquí te comparto la información 👇🏻",
     "RES1": "🌍 *Excelente*, actualízate con *GEST TRANSPORTES* y mantente competitivo en el mercado laboral.",
     "RES2": "📘 Buenísimo, *GEST TRANSPORTES* es de las competencias más pedidas por las empresas y aumentará tus oportunidades laborales.",
@@ -15640,7 +15410,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-341",
+    "LLAVE KEY": "PWE-336",
     "EDICION": "MAY. II - ED26",
     "LINEA": "EXCEL",
     "CATEGORIA": "CURSO",
@@ -15686,7 +15456,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-342",
+    "LLAVE KEY": "PWE-337",
     "EDICION": "MAY. II - ED26",
     "LINEA": "PROCESOS",
     "CATEGORIA": "CURSO",
@@ -15732,7 +15502,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-343",
+    "LLAVE KEY": "PWE-338",
     "EDICION": "MAY. I - ED26",
     "LINEA": "SAP",
     "CATEGORIA": "CURSO",
@@ -15759,15 +15529,15 @@
     "POSTDOCEN": "images/sappm.jpg",
     "AVALADO": "Avalado por SAP Partner Open",
     "CURSO MES": "NO",
-    "INV PRO T": 900,
-    "INV EST T": 750,
-    "INV PRO": 450,
-    "INV EST": 375,
+    "INV PRO T": 850,
+    "INV EST T": 710,
+    "INV PRO": 425,
+    "INV EST": 355,
     "RESEST": 150,
     "RESPRO": 150,
     "VIDEO": "",
-    "EXEST": 337.5,
-    "EXPRO": 405,
+    "EXEST": 319.5,
+    "EXPRO": 382.5,
     "PERSONALIZADO": "El lenguaje del mantenimiento eficiente es SAP HANA PM ⚙️\nAprenderás a planificar, controlar y optimizar la gestión de mantenimiento en empresas reales 🚀.\nAquí tienes la información 👇🏻",
     "RES1": "🛠️ Excelente, actualízate con SAP PM y domina el mantenimiento de planta y equipos.",
     "RES2": "💼 Buenísimo, SAP PM es clave en empresas de manufactura y energía.",
@@ -15778,7 +15548,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-344",
+    "LLAVE KEY": "PWE-339",
     "EDICION": "MAY. I - ED26",
     "LINEA": "EXCEL",
     "CATEGORIA": "ESP.",
@@ -15824,7 +15594,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-345",
+    "LLAVE KEY": "PWE-340",
     "EDICION": "MAY. III - ED26",
     "LINEA": "EXCEL",
     "CATEGORIA": "CURSO",
@@ -15870,7 +15640,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-346",
+    "LLAVE KEY": "PWE-341",
     "EDICION": "MAY. I - ED26",
     "LINEA": "SAP",
     "CATEGORIA": "CURSO",
@@ -15916,7 +15686,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-347",
+    "LLAVE KEY": "PWE-342",
     "EDICION": "MAY. I - ED26",
     "LINEA": "PROYECTOS",
     "CATEGORIA": "CURSO",
@@ -15962,7 +15732,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-348",
+    "LLAVE KEY": "PWE-343",
     "EDICION": "MAY. II - ED26",
     "LINEA": "BI",
     "CATEGORIA": "CURSO",
@@ -16008,7 +15778,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-349",
+    "LLAVE KEY": "PWE-344",
     "EDICION": "MAY. III - ED26",
     "LINEA": "BI",
     "CATEGORIA": "CURSO",
@@ -16054,7 +15824,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-350",
+    "LLAVE KEY": "PWE-345",
     "EDICION": "JUN. I - ED26",
     "LINEA": "PROCESOS",
     "CATEGORIA": "CURSO",
@@ -16100,7 +15870,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-351",
+    "LLAVE KEY": "PWE-346",
     "EDICION": "JUN. I - ED26",
     "LINEA": "BI",
     "CATEGORIA": "CURSO",
@@ -16146,7 +15916,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-352",
+    "LLAVE KEY": "PWE-347",
     "EDICION": "JUN. I - ED26",
     "LINEA": "PROCESOS",
     "CATEGORIA": "CURSO",
@@ -16173,15 +15943,15 @@
     "POSTDOCEN": "images/kpis.jpg",
     "AVALADO": "Avalado por Microsoft Partner Network",
     "CURSO MES": "NO",
-    "INV PRO T": 700,
-    "INV EST T": 636,
-    "INV PRO": 350,
-    "INV EST": 318,
+    "INV PRO T": 650,
+    "INV EST T": 580,
+    "INV PRO": 325,
+    "INV EST": 290,
     "RESEST": 150,
     "RESPRO": 150,
     "VIDEO": "",
-    "EXEST": 286.2,
-    "EXPRO": 315,
+    "EXEST": 261,
+    "EXPRO": 292.5,
     "PERSONALIZADO": "El éxito de los líderes está en medir lo que importa 📈\nCon KPIs y OKRs aprenderás a establecer indicadores y objetivos estratégicos aplicados a casos reales 💼.\nAquí la información completa 👇🏻",
     "RES1": "🌍 *Excelente*, actualízate con *KPIS Y OKRS* y mantente competitivo en el mercado laboral.",
     "RES2": "✨ Buenísimo, *KPIS Y OKRS* es de las competencias más pedidas por las empresas y aumentará tus oportunidades laborales.",
@@ -16192,7 +15962,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-353",
+    "LLAVE KEY": "PWE-348",
     "EDICION": "JUN. I - ED26",
     "LINEA": "LOGÍSTICA",
     "CATEGORIA": "CURSO",
@@ -16238,7 +16008,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-354",
+    "LLAVE KEY": "PWE-349",
     "EDICION": "JUN. I - ED26",
     "LINEA": "EXCEL",
     "CATEGORIA": "CURSO",
@@ -16284,7 +16054,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-355",
+    "LLAVE KEY": "PWE-350",
     "EDICION": "JUN. II - ED26",
     "LINEA": "EXCEL",
     "CATEGORIA": "CURSO",
@@ -16330,7 +16100,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-356",
+    "LLAVE KEY": "PWE-351",
     "EDICION": "JUN. I - ED26",
     "LINEA": "SAP",
     "CATEGORIA": "CURSO",
@@ -16376,7 +16146,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-357",
+    "LLAVE KEY": "PWE-352",
     "EDICION": "JUN. I - ED26",
     "LINEA": "BI",
     "CATEGORIA": "CURSO",
@@ -16422,7 +16192,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-358",
+    "LLAVE KEY": "PWE-353",
     "EDICION": "JUN. I - ED26",
     "LINEA": "LOGÍSTICA",
     "CATEGORIA": "CURSO",
@@ -16468,7 +16238,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-359",
+    "LLAVE KEY": "PWE-354",
     "EDICION": "JUN. I - ED26",
     "LINEA": "PROCESOS",
     "CATEGORIA": "CURSO",
@@ -16514,7 +16284,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-360",
+    "LLAVE KEY": "PWE-355",
     "EDICION": "JUL. I - ED26",
     "LINEA": "PROCESOS",
     "CATEGORIA": "CURSO",
@@ -16541,15 +16311,15 @@
     "POSTDOCEN": "images/kpis.jpg",
     "AVALADO": "Avalado por Microsoft Partner Network",
     "CURSO MES": "NO",
-    "INV PRO T": 700,
-    "INV EST T": 636,
-    "INV PRO": 350,
-    "INV EST": 318,
+    "INV PRO T": 650,
+    "INV EST T": 580,
+    "INV PRO": 325,
+    "INV EST": 290,
     "RESEST": 150,
     "RESPRO": 150,
     "VIDEO": "",
-    "EXEST": 286.2,
-    "EXPRO": 315,
+    "EXEST": 261,
+    "EXPRO": 292.5,
     "PERSONALIZADO": "El éxito de los líderes está en medir lo que importa 📈\nCon KPIs y OKRs aprenderás a establecer indicadores y objetivos estratégicos aplicados a casos reales 💼.\nAquí la información completa 👇🏻",
     "RES1": "🌍 *Excelente*, actualízate con *KPIS Y OKRS* y mantente competitivo en el mercado laboral.",
     "RES2": "✨ Buenísimo, *KPIS Y OKRS* es de las competencias más pedidas por las empresas y aumentará tus oportunidades laborales.",
@@ -16560,7 +16330,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-361",
+    "LLAVE KEY": "PWE-356",
     "EDICION": "JUL. I - ED26",
     "LINEA": "EXCEL",
     "CATEGORIA": "CURSO",
@@ -16606,7 +16376,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-362",
+    "LLAVE KEY": "PWE-357",
     "EDICION": "JUL. I - ED26",
     "LINEA": "PROCESOS",
     "CATEGORIA": "CURSO",
@@ -16652,7 +16422,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-363",
+    "LLAVE KEY": "PWE-358",
     "EDICION": "JUL. I - ED26",
     "LINEA": "LOGÍSTICA",
     "CATEGORIA": "CURSO",
@@ -16679,15 +16449,15 @@
     "POSTDOCEN": "images/transpo.jpg",
     "AVALADO": "",
     "CURSO MES": "NO",
-    "INV PRO T": 830,
-    "INV EST T": 770,
-    "INV PRO": 415,
-    "INV EST": 385,
+    "INV PRO T": 820,
+    "INV EST T": 710,
+    "INV PRO": 410,
+    "INV EST": 355,
     "RESEST": 150,
     "RESPRO": 150,
     "VIDEO": "",
-    "EXEST": 346.5,
-    "EXPRO": 373.5,
+    "EXEST": 319.5,
+    "EXPRO": 369,
     "PERSONALIZADO": "La competitividad empresarial depende de una logística eficiente 📦\nCon Gestión de Transportes aprenderás a planificar, coordinar y optimizar rutas y costos en casos reales 🚛.\nAquí te comparto la información 👇🏻",
     "RES1": "🌍 *Excelente*, actualízate con *GEST TRANSPORTES* y mantente competitivo en el mercado laboral.",
     "RES2": "📘 Buenísimo, *GEST TRANSPORTES* es de las competencias más pedidas por las empresas y aumentará tus oportunidades laborales.",
@@ -16698,7 +16468,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-364",
+    "LLAVE KEY": "PWE-359",
     "EDICION": "JUL. I - ED26",
     "LINEA": "PROYECTOS",
     "CATEGORIA": "CURSO",
@@ -16744,7 +16514,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-365",
+    "LLAVE KEY": "PWE-360",
     "EDICION": "JUL. I - ED26",
     "LINEA": "BI",
     "CATEGORIA": "CURSO",
@@ -16790,7 +16560,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-366",
+    "LLAVE KEY": "PWE-361",
     "EDICION": "AGO. I - ED26",
     "LINEA": "PROYECTOS",
     "CATEGORIA": "CURSO",
@@ -16836,7 +16606,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-367",
+    "LLAVE KEY": "PWE-362",
     "EDICION": "AGO. I - ED26",
     "LINEA": "PROCESOS",
     "CATEGORIA": "CURSO",
@@ -16863,15 +16633,15 @@
     "POSTDOCEN": "images/kpis.jpg",
     "AVALADO": "Avalado por Microsoft Partner Network",
     "CURSO MES": "NO",
-    "INV PRO T": 700,
-    "INV EST T": 636,
-    "INV PRO": 350,
-    "INV EST": 318,
+    "INV PRO T": 650,
+    "INV EST T": 580,
+    "INV PRO": 325,
+    "INV EST": 290,
     "RESEST": 150,
     "RESPRO": 150,
     "VIDEO": "",
-    "EXEST": 286.2,
-    "EXPRO": 315,
+    "EXEST": 261,
+    "EXPRO": 292.5,
     "PERSONALIZADO": "El éxito de los líderes está en medir lo que importa 📈\nCon KPIs y OKRs aprenderás a establecer indicadores y objetivos estratégicos aplicados a casos reales 💼.\nAquí la información completa 👇🏻",
     "RES1": "🌍 *Excelente*, actualízate con *KPIS Y OKRS* y mantente competitivo en el mercado laboral.",
     "RES2": "✨ Buenísimo, *KPIS Y OKRS* es de las competencias más pedidas por las empresas y aumentará tus oportunidades laborales.",
@@ -16882,7 +16652,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-368",
+    "LLAVE KEY": "PWE-363",
     "EDICION": "AGO. I - ED26",
     "LINEA": "PROCESOS",
     "CATEGORIA": "CURSO",
@@ -16928,7 +16698,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-369",
+    "LLAVE KEY": "PWE-364",
     "EDICION": "AGO. I - ED26",
     "LINEA": "LOGÍSTICA",
     "CATEGORIA": "CURSO",
@@ -16974,7 +16744,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-370",
+    "LLAVE KEY": "PWE-365",
     "EDICION": "SEP. I - ED26",
     "LINEA": "BI",
     "CATEGORIA": "CURSO",
@@ -17020,7 +16790,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-371",
+    "LLAVE KEY": "PWE-366",
     "EDICION": "SEP. I - ED26",
     "LINEA": "PROCESOS",
     "CATEGORIA": "CURSO",
