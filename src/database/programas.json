@@ -579,15 +579,15 @@
     "POSTDOCEN": "images/sqlserver.jpg",
     "AVALADO": "Avalado por Microsoft Partner Network",
     "CURSO MES": "NO",
-    "INV PRO T": 830,
-    "INV EST T": 740,
-    "INV PRO": 415,
-    "INV EST": 370,
+    "INV PRO T": 840,
+    "INV EST T": 750,
+    "INV PRO": 420,
+    "INV EST": 375,
     "RESEST": 150,
     "RESPRO": 150,
     "VIDEO": "",
-    "EXEST": 333,
-    "EXPRO": 373.5,
+    "EXEST": 337.5,
+    "EXPRO": 378,
     "PERSONALIZADO": "*El lenguaje de las empresas hoy son los datos* 🚀 \nAprende a manejar bases de datos y hacer consultas prácticas para gestionar información de forma eficiente 📊\nAhora te adjunto la información a detalle 👇🏻",
     "RES1": "*Excelente*, con SQL Server actualizarás tus habilidades en bases de datos y te mantendrás vigente en un mercado que exige dominio de la información.",
     "RES2": "Buenísimo, SQL Server es clave en muchas empresas. Este curso te dará ventaja frente a otros candidatos y aumentará tus opciones laborales.",
@@ -855,15 +855,15 @@
     "POSTDOCEN": "images/powerappavanz.jpg",
     "AVALADO": "Avalado por Microsoft Partner Network",
     "CURSO MES": "NO",
-    "INV PRO T": 650,
-    "INV EST T": 570,
-    "INV PRO": 325,
-    "INV EST": 285,
+    "INV PRO T": 700,
+    "INV EST T": 650,
+    "INV PRO": 350,
+    "INV EST": 325,
     "RESEST": 150,
     "RESPRO": 150,
     "VIDEO": "",
-    "EXEST": 256.5,
-    "EXPRO": 292.5,
+    "EXEST": 292.5,
+    "EXPRO": 315,
     "PERSONALIZADO": "El futuro de los negocios es la automatización sin código 💡\nCon Power Apps Avanzado diseñarás aplicaciones prácticas para optimizar procesos reales 📊.\nAquí te comparto la información 👇🏻",
     "RES1": "⚡ Excelente, actualízate con Power Apps Avanzado y domina la automatización de procesos.",
     "RES2": "💼 Buenísimo, Power Apps Avanzado es muy buscado en empresas que digitalizan operaciones.",
@@ -901,15 +901,15 @@
     "POSTDOCEN": "images/msproject.jpg",
     "AVALADO": "Avalado por Microsoft Partner Network",
     "CURSO MES": "SI",
-    "INV PRO T": 610,
-    "INV EST T": 550,
-    "INV PRO": 305,
-    "INV EST": 275,
+    "INV PRO T": 650,
+    "INV EST T": 580,
+    "INV PRO": 325,
+    "INV EST": 290,
     "RESEST": 150,
     "RESPRO": 150,
     "VIDEO": "",
-    "EXEST": 247.5,
-    "EXPRO": 274.5,
+    "EXEST": 261,
+    "EXPRO": 292.5,
     "PERSONALIZADO": "✨ *Planificar bien es la clave para que todo proyecto tenga éxito.*\nAprende a gestionar tareas, tiempos y recursos con Microsoft Project de forma práctica y profesional 📅\nAhora te adjunto la información a detalle 👇🏻",
     "RES1": "✨ Excelente, actualízate con MS Project y gestiona proyectos de manera más eficiente.",
     "RES2": "💼 Buenísimo, MS Project es muy valorado por las empresas que buscan profesionales de gestión.",
@@ -947,15 +947,15 @@
     "POSTDOCEN": "images/costypre.jpg",
     "AVALADO": "",
     "CURSO MES": "NO",
-    "INV PRO T": 750,
-    "INV EST T": 700,
-    "INV PRO": 375,
-    "INV EST": 350,
+    "INV PRO T": 730,
+    "INV EST T": 680,
+    "INV PRO": 365,
+    "INV EST": 340,
     "RESEST": 150,
     "RESPRO": 150,
     "VIDEO": "",
-    "EXEST": 315,
-    "EXPRO": 337.5,
+    "EXEST": 306,
+    "EXPRO": 328.5,
     "PERSONALIZADO": "Los líderes gestionan recursos con precisión y visión 📊\nCon Costos y Presupuestos aprenderás a planificar y controlar gastos de manera práctica 💼.\nAquí te comparto la info 👇🏻",
     "RES1": "📊 *Excelente*, con *Costos y Presupuestos* te actualizarás en control financiero y gestión de proyectos.",
     "RES2": "💼 Buenísimo, *Costos y Presupuestos* es clave en empresas y muy requerido por empleadores.",
@@ -1591,15 +1591,15 @@
     "POSTDOCEN": "images/powerappavanz.jpg",
     "AVALADO": "Avalado por Microsoft Partner Network",
     "CURSO MES": "NO",
-    "INV PRO T": 650,
-    "INV EST T": 570,
-    "INV PRO": 325,
-    "INV EST": 285,
+    "INV PRO T": 700,
+    "INV EST T": 650,
+    "INV PRO": 350,
+    "INV EST": 325,
     "RESEST": 150,
     "RESPRO": 150,
     "VIDEO": "",
-    "EXEST": 256.5,
-    "EXPRO": 292.5,
+    "EXEST": 292.5,
+    "EXPRO": 315,
     "PERSONALIZADO": "El futuro de los negocios es la automatización sin código 💡\nCon Power Apps Avanzado diseñarás aplicaciones prácticas para optimizar procesos reales 📊.\nAquí te comparto la información 👇🏻",
     "RES1": "⚡ Excelente, actualízate con Power Apps Avanzado y domina la automatización de procesos.",
     "RES2": "💼 Buenísimo, Power Apps Avanzado es muy buscado en empresas que digitalizan operaciones.",
@@ -3006,7 +3006,7 @@
     "INICIO4": "",
     "CURSO5": "",
     "INICIO5": "",
-    "DOCENTE": "David Llaja\nJorge Rodriguez",
+    "DOCENTE": "Mijael Pampas\nJorge Rodriguez",
     "DIAS": "Mar-Jue",
     "HORARIO": "7PM - 10PM",
     "INICIO": "Jueves 11 Diciembre",
@@ -3052,7 +3052,7 @@
     "INICIO4": "",
     "CURSO5": "",
     "INICIO5": "",
-    "DOCENTE": "David Llaja\n",
+    "DOCENTE": "Mijael Pampas",
     "DIAS": "Mar-Jue",
     "HORARIO": "7PM - 10PM",
     "INICIO": "Jueves 11 Diciembre",
@@ -3063,15 +3063,15 @@
     "POSTDOCEN": "images/sqlserver.jpg",
     "AVALADO": "Avalado por Microsoft Partner Network",
     "CURSO MES": "NO",
-    "INV PRO T": 830,
-    "INV EST T": 740,
-    "INV PRO": 415,
-    "INV EST": 370,
+    "INV PRO T": 840,
+    "INV EST T": 750,
+    "INV PRO": 420,
+    "INV EST": 375,
     "RESEST": 150,
     "RESPRO": 150,
     "VIDEO": "",
-    "EXEST": 333,
-    "EXPRO": 373.5,
+    "EXEST": 337.5,
+    "EXPRO": 378,
     "PERSONALIZADO": "*El lenguaje de las empresas hoy son los datos* 🚀 \nAprende a manejar bases de datos y hacer consultas prácticas para gestionar información de forma eficiente 📊\nAhora te adjunto la información a detalle 👇🏻",
     "RES1": "*Excelente*, con SQL Server actualizarás tus habilidades en bases de datos y te mantendrás vigente en un mercado que exige dominio de la información.",
     "RES2": "Buenísimo, SQL Server es clave en muchas empresas. Este curso te dará ventaja frente a otros candidatos y aumentará tus opciones laborales.",
@@ -4075,15 +4075,15 @@
     "POSTDOCEN": "images/sqlserver.jpg",
     "AVALADO": "Avalado por Microsoft Partner Network",
     "CURSO MES": "NO",
-    "INV PRO T": 830,
-    "INV EST T": 740,
-    "INV PRO": 415,
-    "INV EST": 370,
+    "INV PRO T": 840,
+    "INV EST T": 750,
+    "INV PRO": 420,
+    "INV EST": 375,
     "RESEST": 150,
     "RESPRO": 150,
     "VIDEO": "",
-    "EXEST": 333,
-    "EXPRO": 373.5,
+    "EXEST": 337.5,
+    "EXPRO": 378,
     "PERSONALIZADO": "*El lenguaje de las empresas hoy son los datos* 🚀 \nAprende a manejar bases de datos y hacer consultas prácticas para gestionar información de forma eficiente 📊\nAhora te adjunto la información a detalle 👇🏻",
     "RES1": "*Excelente*, con SQL Server actualizarás tus habilidades en bases de datos y te mantendrás vigente en un mercado que exige dominio de la información.",
     "RES2": "Buenísimo, SQL Server es clave en muchas empresas. Este curso te dará ventaja frente a otros candidatos y aumentará tus opciones laborales.",
@@ -4121,15 +4121,15 @@
     "POSTDOCEN": "images/powerappavanz.jpg",
     "AVALADO": "Avalado por Microsoft Partner Network",
     "CURSO MES": "NO",
-    "INV PRO T": 650,
-    "INV EST T": 570,
-    "INV PRO": 325,
-    "INV EST": 285,
+    "INV PRO T": 700,
+    "INV EST T": 650,
+    "INV PRO": 350,
+    "INV EST": 325,
     "RESEST": 150,
     "RESPRO": 150,
     "VIDEO": "",
-    "EXEST": 256.5,
-    "EXPRO": 292.5,
+    "EXEST": 292.5,
+    "EXPRO": 315,
     "PERSONALIZADO": "El futuro de los negocios es la automatización sin código 💡\nCon Power Apps Avanzado diseñarás aplicaciones prácticas para optimizar procesos reales 📊.\nAquí te comparto la información 👇🏻",
     "RES1": "⚡ Excelente, actualízate con Power Apps Avanzado y domina la automatización de procesos.",
     "RES2": "💼 Buenísimo, Power Apps Avanzado es muy buscado en empresas que digitalizan operaciones.",
@@ -5409,15 +5409,15 @@
     "POSTDOCEN": "images/msproject.jpg",
     "AVALADO": "Avalado por Microsoft Partner Network",
     "CURSO MES": "SI",
-    "INV PRO T": 610,
-    "INV EST T": 550,
-    "INV PRO": 305,
-    "INV EST": 275,
+    "INV PRO T": 650,
+    "INV EST T": 580,
+    "INV PRO": 325,
+    "INV EST": 290,
     "RESEST": 150,
     "RESPRO": 150,
     "VIDEO": "",
-    "EXEST": 247.5,
-    "EXPRO": 274.5,
+    "EXEST": 261,
+    "EXPRO": 292.5,
     "PERSONALIZADO": "✨ *Planificar bien es la clave para que todo proyecto tenga éxito.*\nAprende a gestionar tareas, tiempos y recursos con Microsoft Project de forma práctica y profesional 📅\nAhora te adjunto la información a detalle 👇🏻",
     "RES1": "✨ Excelente, actualízate con MS Project y gestiona proyectos de manera más eficiente.",
     "RES2": "💼 Buenísimo, MS Project es muy valorado por las empresas que buscan profesionales de gestión.",
@@ -5915,15 +5915,15 @@
     "POSTDOCEN": "images/sqlserver.jpg",
     "AVALADO": "Avalado por Microsoft Partner Network",
     "CURSO MES": "NO",
-    "INV PRO T": 830,
-    "INV EST T": 740,
-    "INV PRO": 415,
-    "INV EST": 370,
+    "INV PRO T": 840,
+    "INV EST T": 750,
+    "INV PRO": 420,
+    "INV EST": 375,
     "RESEST": 150,
     "RESPRO": 150,
     "VIDEO": "",
-    "EXEST": 333,
-    "EXPRO": 373.5,
+    "EXEST": 337.5,
+    "EXPRO": 378,
     "PERSONALIZADO": "*El lenguaje de las empresas hoy son los datos* 🚀 \nAprende a manejar bases de datos y hacer consultas prácticas para gestionar información de forma eficiente 📊\nAhora te adjunto la información a detalle 👇🏻",
     "RES1": "*Excelente*, con SQL Server actualizarás tus habilidades en bases de datos y te mantendrás vigente en un mercado que exige dominio de la información.",
     "RES2": "Buenísimo, SQL Server es clave en muchas empresas. Este curso te dará ventaja frente a otros candidatos y aumentará tus opciones laborales.",
@@ -6191,15 +6191,15 @@
     "POSTDOCEN": "images/powerappavanz.jpg",
     "AVALADO": "Avalado por Microsoft Partner Network",
     "CURSO MES": "NO",
-    "INV PRO T": 650,
-    "INV EST T": 570,
-    "INV PRO": 325,
-    "INV EST": 285,
+    "INV PRO T": 700,
+    "INV EST T": 650,
+    "INV PRO": 350,
+    "INV EST": 325,
     "RESEST": 150,
     "RESPRO": 150,
     "VIDEO": "",
-    "EXEST": 256.5,
-    "EXPRO": 292.5,
+    "EXEST": 292.5,
+    "EXPRO": 315,
     "PERSONALIZADO": "El futuro de los negocios es la automatización sin código 💡\nCon Power Apps Avanzado diseñarás aplicaciones prácticas para optimizar procesos reales 📊.\nAquí te comparto la información 👇🏻",
     "RES1": "⚡ Excelente, actualízate con Power Apps Avanzado y domina la automatización de procesos.",
     "RES2": "💼 Buenísimo, Power Apps Avanzado es muy buscado en empresas que digitalizan operaciones.",
@@ -6916,7 +6916,7 @@
     "INICIO4": "",
     "CURSO5": "",
     "INICIO5": "",
-    "DOCENTE": "Rodrigo Sánchez\nMoisés Bautista",
+    "DOCENTE": "Rodrigo Sánchez\nDiego Castillo",
     "DIAS": "Lun-Mie-Vier",
     "HORARIO": "7PM - 10PM",
     "INICIO": "Viernes 30 Enero",
@@ -7249,15 +7249,15 @@
     "POSTDOCEN": "images/msproject.jpg",
     "AVALADO": "Avalado por Microsoft Partner Network",
     "CURSO MES": "SI",
-    "INV PRO T": 610,
-    "INV EST T": 550,
-    "INV PRO": 305,
-    "INV EST": 275,
+    "INV PRO T": 650,
+    "INV EST T": 580,
+    "INV PRO": 325,
+    "INV EST": 290,
     "RESEST": 150,
     "RESPRO": 150,
     "VIDEO": "",
-    "EXEST": 247.5,
-    "EXPRO": 274.5,
+    "EXEST": 261,
+    "EXPRO": 292.5,
     "PERSONALIZADO": "✨ *Planificar bien es la clave para que todo proyecto tenga éxito.*\nAprende a gestionar tareas, tiempos y recursos con Microsoft Project de forma práctica y profesional 📅\nAhora te adjunto la información a detalle 👇🏻",
     "RES1": "✨ Excelente, actualízate con MS Project y gestiona proyectos de manera más eficiente.",
     "RES2": "💼 Buenísimo, MS Project es muy valorado por las empresas que buscan profesionales de gestión.",
@@ -7341,15 +7341,15 @@
     "POSTDOCEN": "images/sqlserver.jpg",
     "AVALADO": "Avalado por Microsoft Partner Network",
     "CURSO MES": "NO",
-    "INV PRO T": 830,
-    "INV EST T": 740,
-    "INV PRO": 415,
-    "INV EST": 370,
+    "INV PRO T": 840,
+    "INV EST T": 750,
+    "INV PRO": 420,
+    "INV EST": 375,
     "RESEST": 150,
     "RESPRO": 150,
     "VIDEO": "",
-    "EXEST": 333,
-    "EXPRO": 373.5,
+    "EXEST": 337.5,
+    "EXPRO": 378,
     "PERSONALIZADO": "*El lenguaje de las empresas hoy son los datos* 🚀 \nAprende a manejar bases de datos y hacer consultas prácticas para gestionar información de forma eficiente 📊\nAhora te adjunto la información a detalle 👇🏻",
     "RES1": "*Excelente*, con SQL Server actualizarás tus habilidades en bases de datos y te mantendrás vigente en un mercado que exige dominio de la información.",
     "RES2": "Buenísimo, SQL Server es clave en muchas empresas. Este curso te dará ventaja frente a otros candidatos y aumentará tus opciones laborales.",
@@ -8343,7 +8343,7 @@
     "CURSO5": "",
     "INICIO5": "",
     "DOCENTE": "Sylvia Rodas",
-    "DIAS": "Mar-Jue",
+    "DIAS": "Jue",
     "HORARIO": "7PM - 10PM",
     "INICIO": "Jueves 12 Febrero",
     "FIN": "Martes 3 Marzo",
@@ -8572,7 +8572,7 @@
     "INICIO4": "",
     "CURSO5": "",
     "INICIO5": "",
-    "DOCENTE": "Moisés Bautista",
+    "DOCENTE": "Diego Castillo",
     "DIAS": "Lun-Mie-Vier",
     "HORARIO": "7PM - 10PM",
     "INICIO": "Viernes 13 Febrero",
@@ -9227,15 +9227,15 @@
     "POSTDOCEN": "images/costypre.jpg",
     "AVALADO": "",
     "CURSO MES": "NO",
-    "INV PRO T": 750,
-    "INV EST T": 700,
-    "INV PRO": 375,
-    "INV EST": 350,
+    "INV PRO T": 730,
+    "INV EST T": 680,
+    "INV PRO": 365,
+    "INV EST": 340,
     "RESEST": 150,
     "RESPRO": 150,
     "VIDEO": "",
-    "EXEST": 315,
-    "EXPRO": 337.5,
+    "EXEST": 306,
+    "EXPRO": 328.5,
     "PERSONALIZADO": "Los líderes gestionan recursos con precisión y visión 📊\nCon Costos y Presupuestos aprenderás a planificar y controlar gastos de manera práctica 💼.\nAquí te comparto la info 👇🏻",
     "RES1": "📊 *Excelente*, con *Costos y Presupuestos* te actualizarás en control financiero y gestión de proyectos.",
     "RES2": "💼 Buenísimo, *Costos y Presupuestos* es clave en empresas y muy requerido por empleadores.",
@@ -9319,15 +9319,15 @@
     "POSTDOCEN": "images/sqlserver.jpg",
     "AVALADO": "Avalado por Microsoft Partner Network",
     "CURSO MES": "NO",
-    "INV PRO T": 830,
-    "INV EST T": 740,
-    "INV PRO": 415,
-    "INV EST": 370,
+    "INV PRO T": 840,
+    "INV EST T": 750,
+    "INV PRO": 420,
+    "INV EST": 375,
     "RESEST": 150,
     "RESPRO": 150,
     "VIDEO": "",
-    "EXEST": 333,
-    "EXPRO": 373.5,
+    "EXEST": 337.5,
+    "EXPRO": 378,
     "PERSONALIZADO": "*El lenguaje de las empresas hoy son los datos* 🚀 \nAprende a manejar bases de datos y hacer consultas prácticas para gestionar información de forma eficiente 📊\nAhora te adjunto la información a detalle 👇🏻",
     "RES1": "*Excelente*, con SQL Server actualizarás tus habilidades en bases de datos y te mantendrás vigente en un mercado que exige dominio de la información.",
     "RES2": "Buenísimo, SQL Server es clave en muchas empresas. Este curso te dará ventaja frente a otros candidatos y aumentará tus opciones laborales.",
@@ -9595,15 +9595,15 @@
     "POSTDOCEN": "images/powerappavanz.jpg",
     "AVALADO": "Avalado por Microsoft Partner Network",
     "CURSO MES": "NO",
-    "INV PRO T": 650,
-    "INV EST T": 570,
-    "INV PRO": 325,
-    "INV EST": 285,
+    "INV PRO T": 700,
+    "INV EST T": 650,
+    "INV PRO": 350,
+    "INV EST": 325,
     "RESEST": 150,
     "RESPRO": 150,
     "VIDEO": "",
-    "EXEST": 256.5,
-    "EXPRO": 292.5,
+    "EXEST": 292.5,
+    "EXPRO": 315,
     "PERSONALIZADO": "El futuro de los negocios es la automatización sin código 💡\nCon Power Apps Avanzado diseñarás aplicaciones prácticas para optimizar procesos reales 📊.\nAquí te comparto la información 👇🏻",
     "RES1": "⚡ Excelente, actualízate con Power Apps Avanzado y domina la automatización de procesos.",
     "RES2": "💼 Buenísimo, Power Apps Avanzado es muy buscado en empresas que digitalizan operaciones.",
@@ -9871,15 +9871,15 @@
     "POSTDOCEN": "images/msproject.jpg",
     "AVALADO": "Avalado por Microsoft Partner Network",
     "CURSO MES": "SI",
-    "INV PRO T": 610,
-    "INV EST T": 550,
-    "INV PRO": 305,
-    "INV EST": 275,
+    "INV PRO T": 650,
+    "INV EST T": 580,
+    "INV PRO": 325,
+    "INV EST": 290,
     "RESEST": 150,
     "RESPRO": 150,
     "VIDEO": "",
-    "EXEST": 247.5,
-    "EXPRO": 274.5,
+    "EXEST": 261,
+    "EXPRO": 292.5,
     "PERSONALIZADO": "✨ *Planificar bien es la clave para que todo proyecto tenga éxito.*\nAprende a gestionar tareas, tiempos y recursos con Microsoft Project de forma práctica y profesional 📅\nAhora te adjunto la información a detalle 👇🏻",
     "RES1": "✨ Excelente, actualízate con MS Project y gestiona proyectos de manera más eficiente.",
     "RES2": "💼 Buenísimo, MS Project es muy valorado por las empresas que buscan profesionales de gestión.",
@@ -10193,15 +10193,15 @@
     "POSTDOCEN": "images/sqlserver.jpg",
     "AVALADO": "Avalado por Microsoft Partner Network",
     "CURSO MES": "NO",
-    "INV PRO T": 830,
-    "INV EST T": 740,
-    "INV PRO": 415,
-    "INV EST": 370,
+    "INV PRO T": 840,
+    "INV EST T": 750,
+    "INV PRO": 420,
+    "INV EST": 375,
     "RESEST": 150,
     "RESPRO": 150,
     "VIDEO": "",
-    "EXEST": 333,
-    "EXPRO": 373.5,
+    "EXEST": 337.5,
+    "EXPRO": 378,
     "PERSONALIZADO": "*El lenguaje de las empresas hoy son los datos* 🚀 \nAprende a manejar bases de datos y hacer consultas prácticas para gestionar información de forma eficiente 📊\nAhora te adjunto la información a detalle 👇🏻",
     "RES1": "*Excelente*, con SQL Server actualizarás tus habilidades en bases de datos y te mantendrás vigente en un mercado que exige dominio de la información.",
     "RES2": "Buenísimo, SQL Server es clave en muchas empresas. Este curso te dará ventaja frente a otros candidatos y aumentará tus opciones laborales.",
@@ -10351,6 +10351,52 @@
   },
   {
     "LLAVE KEY": "PWE-226",
+    "EDICION": "FEB. II - ED26",
+    "LINEA": "SAP",
+    "CATEGORIA": "CURSO",
+    "PROGRAMA": "SAP HANA MM",
+    "INICIO6": "28/2/2026",
+    "CURSO1": "",
+    "INICIO1": "",
+    "CURSO2": "",
+    "INICIO2": "",
+    "CURSO3": "",
+    "INICIO3": "",
+    "CURSO4": "",
+    "INICIO4": "",
+    "CURSO5": "",
+    "INICIO5": "",
+    "DOCENTE": "",
+    "DIAS": "Sáb",
+    "HORARIO": "3PM - 6PM",
+    "INICIO": "Sábado 28 Febrero",
+    "FIN": "Sábado 11 Abril",
+    "SESIONES": 6,
+    "BROCHURE": "pdfs/BROCHURE SAP HANA MM MODULO LOGISTICO.pdf",
+    "BENEFICIOS": "🔵 *Utilizarán SAP HANA* 👩🏻‍💻\n👉🏼 Incluye tutorial y manual de instalación\n👉🏼 12 meses de Licencia SAP para practicar\n👉🏼 Contarás con Soporte técnico\n💻 _*Importante*: Para la instalación se necesita una Laptop *Windows*_\n\n🚨 *Por favor, revisa el BROCHURE* 👇🏻\nAqui encontrarás la información completa del programa, el TEMARIO (malla curricular) y todos los BENEFICIOS 📚",
+    "POSTDOCEN": "images/sapmm.jpg",
+    "AVALADO": "Avalado por SAP Partner Open",
+    "CURSO MES": "NO",
+    "INV PRO T": 950,
+    "INV EST T": 820,
+    "INV PRO": 475,
+    "INV EST": 410,
+    "RESEST": 150,
+    "RESPRO": 150,
+    "VIDEO": "",
+    "EXEST": 369,
+    "EXPRO": 427.5,
+    "PERSONALIZADO": "La gestión de materiales evoluciona con SAP HANA MM 🌐\nDomina procesos de compras, inventarios y logística con un enfoque práctico y aplicable al día a día empresarial.\nAquí encuentras la info completa 👇🏻",
+    "RES1": "Excelente 🙌, actualizarte con SAP HANA MM te dará un plus competitivo en gestión de materiales 📦 y compras.",
+    "RES2": "Buenísimo 💼, SAP es altamente valorado en empresas grandes 🌐. Dominar HANA MM abrirá más oportunidades 🚀.",
+    "RES3": "¡Excelente! 🎓 Con SAP HANA MM aprenderás sobre procesos logísticos 🔄 que te diferenciarán desde la universidad.",
+    "RES4": "¡Perfecto! 🔑 Conocer SAP te dará ventaja frente a otros postulantes y será clave para prácticas en logística 📝.",
+    "RES5": "¡Excelente! 💡 Con SAP HANA MM podrás optimizar inventarios 📦 y procesos en tu propio negocio.",
+    "ENLACE": "https://we-educacion.com/slides/sap-s-4-hana-mm-45",
+    "HABITILITADO": 1
+  },
+  {
+    "LLAVE KEY": "PWE-227",
     "EDICION": "MAR. I - ED26",
     "LINEA": "PROYECTOS",
     "CATEGORIA": "CURSO",
@@ -10396,7 +10442,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-227",
+    "LLAVE KEY": "PWE-228",
     "EDICION": "MAR. I - ED26",
     "LINEA": "SAP",
     "CATEGORIA": "CURSO",
@@ -10442,7 +10488,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-228",
+    "LLAVE KEY": "PWE-229",
     "EDICION": "MAR. I - ED26",
     "LINEA": "LOGÍSTICA",
     "CATEGORIA": "CURSO",
@@ -10488,7 +10534,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-229",
+    "LLAVE KEY": "PWE-230",
     "EDICION": "MAR. I - ED26",
     "LINEA": "LOGÍSTICA",
     "CATEGORIA": "CURSO",
@@ -10534,7 +10580,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-230",
+    "LLAVE KEY": "PWE-231",
     "EDICION": "MAR. I - ED26",
     "LINEA": "PROCESOS",
     "CATEGORIA": "CURSO",
@@ -10561,15 +10607,15 @@
     "POSTDOCEN": "images/powerappavanz.jpg",
     "AVALADO": "Avalado por Microsoft Partner Network",
     "CURSO MES": "NO",
-    "INV PRO T": 650,
-    "INV EST T": 570,
-    "INV PRO": 325,
-    "INV EST": 285,
+    "INV PRO T": 700,
+    "INV EST T": 650,
+    "INV PRO": 350,
+    "INV EST": 325,
     "RESEST": 150,
     "RESPRO": 150,
     "VIDEO": "",
-    "EXEST": 256.5,
-    "EXPRO": 292.5,
+    "EXEST": 292.5,
+    "EXPRO": 315,
     "PERSONALIZADO": "El futuro de los negocios es la automatización sin código 💡\nCon Power Apps Avanzado diseñarás aplicaciones prácticas para optimizar procesos reales 📊.\nAquí te comparto la información 👇🏻",
     "RES1": "⚡ Excelente, actualízate con Power Apps Avanzado y domina la automatización de procesos.",
     "RES2": "💼 Buenísimo, Power Apps Avanzado es muy buscado en empresas que digitalizan operaciones.",
@@ -10580,7 +10626,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-231",
+    "LLAVE KEY": "PWE-232",
     "EDICION": "MAR. I - ED26",
     "LINEA": "MKT",
     "CATEGORIA": "CURSO",
@@ -10626,7 +10672,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-232",
+    "LLAVE KEY": "PWE-233",
     "EDICION": "MAR. I - ED26",
     "LINEA": "PROCESOS",
     "CATEGORIA": "ESP.",
@@ -10672,7 +10718,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-233",
+    "LLAVE KEY": "PWE-234",
     "EDICION": "MAR. I - ED26",
     "LINEA": "PROCESOS",
     "CATEGORIA": "CURSO",
@@ -10718,7 +10764,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-234",
+    "LLAVE KEY": "PWE-235",
     "EDICION": "MAR. I - ED26",
     "LINEA": "WEB",
     "CATEGORIA": "CURSO",
@@ -10764,7 +10810,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-235",
+    "LLAVE KEY": "PWE-236",
     "EDICION": "MAR. I - ED26",
     "LINEA": "EXCEL",
     "CATEGORIA": "ESP.",
@@ -10810,7 +10856,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-236",
+    "LLAVE KEY": "PWE-237",
     "EDICION": "MAR. I - ED26",
     "LINEA": "EXCEL",
     "CATEGORIA": "CURSO",
@@ -10856,7 +10902,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-237",
+    "LLAVE KEY": "PWE-238",
     "EDICION": "MAR. I - ED26",
     "LINEA": "EXCEL",
     "CATEGORIA": "CURSO",
@@ -10902,7 +10948,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-238",
+    "LLAVE KEY": "PWE-239",
     "EDICION": "MAR. I - ED26",
     "LINEA": "PROCESOS",
     "CATEGORIA": "CURSO",
@@ -10948,7 +10994,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-239",
+    "LLAVE KEY": "PWE-240",
     "EDICION": "MAR. I - ED26",
     "LINEA": "BI",
     "CATEGORIA": "CURSO",
@@ -10994,7 +11040,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-240",
+    "LLAVE KEY": "PWE-241",
     "EDICION": "MAR. I - ED26",
     "LINEA": "SAP",
     "CATEGORIA": "CURSO",
@@ -11040,7 +11086,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-241",
+    "LLAVE KEY": "PWE-242",
     "EDICION": "MAR. I - ED26",
     "LINEA": "BI",
     "CATEGORIA": "CURSO",
@@ -11086,7 +11132,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-242",
+    "LLAVE KEY": "PWE-243",
     "EDICION": "MAR. I - ED26",
     "LINEA": "ADMINISTRACIÓN",
     "CATEGORIA": "CURSO",
@@ -11132,7 +11178,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-243",
+    "LLAVE KEY": "PWE-244",
     "EDICION": "MAR. I - ED26",
     "LINEA": "LOGÍSTICA",
     "CATEGORIA": "DIPLOMADO",
@@ -11178,7 +11224,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-244",
+    "LLAVE KEY": "PWE-245",
     "EDICION": "MAR. I - ED26",
     "LINEA": "LOGÍSTICA",
     "CATEGORIA": "CURSO",
@@ -11224,7 +11270,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-245",
+    "LLAVE KEY": "PWE-246",
     "EDICION": "MAR. I - ED26",
     "LINEA": "EXCEL",
     "CATEGORIA": "CURSO",
@@ -11270,7 +11316,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-246",
+    "LLAVE KEY": "PWE-247",
     "EDICION": "MAR. II - ED26",
     "LINEA": "EXCEL",
     "CATEGORIA": "CURSO",
@@ -11316,7 +11362,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-247",
+    "LLAVE KEY": "PWE-248",
     "EDICION": "MAR. I - ED26",
     "LINEA": "PROCESOS",
     "CATEGORIA": "CURSO",
@@ -11362,7 +11408,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-248",
+    "LLAVE KEY": "PWE-249",
     "EDICION": "MAR. I - ED26",
     "LINEA": "PROYECTOS",
     "CATEGORIA": "CURSO",
@@ -11408,7 +11454,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-249",
+    "LLAVE KEY": "PWE-250",
     "EDICION": "MAR. I - ED26",
     "LINEA": "EXCEL",
     "CATEGORIA": "ESP.",
@@ -11454,7 +11500,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-250",
+    "LLAVE KEY": "PWE-251",
     "EDICION": "MAR. I - ED26",
     "LINEA": "EXCEL",
     "CATEGORIA": "ESP.",
@@ -11500,7 +11546,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-251",
+    "LLAVE KEY": "PWE-252",
     "EDICION": "MAR. I - ED26",
     "LINEA": "EXCEL",
     "CATEGORIA": "CURSO",
@@ -11546,7 +11592,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-252",
+    "LLAVE KEY": "PWE-253",
     "EDICION": "MAR. I - ED26",
     "LINEA": "SAP",
     "CATEGORIA": "CURSO",
@@ -11592,7 +11638,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-253",
+    "LLAVE KEY": "PWE-254",
     "EDICION": "MAR. I - ED26",
     "LINEA": "BI",
     "CATEGORIA": "ESP.",
@@ -11638,7 +11684,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-254",
+    "LLAVE KEY": "PWE-255",
     "EDICION": "MAR. I - ED26",
     "LINEA": "BI",
     "CATEGORIA": "CURSO",
@@ -11684,7 +11730,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-255",
+    "LLAVE KEY": "PWE-256",
     "EDICION": "MAR. II - ED26",
     "LINEA": "PROYECTOS",
     "CATEGORIA": "CURSO",
@@ -11730,7 +11776,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-256",
+    "LLAVE KEY": "PWE-257",
     "EDICION": "MAR. I - ED26",
     "LINEA": "SAP",
     "CATEGORIA": "CURSO",
@@ -11776,7 +11822,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-257",
+    "LLAVE KEY": "PWE-258",
     "EDICION": "MAR. I - ED26",
     "LINEA": "BI",
     "CATEGORIA": "ESP.",
@@ -11822,7 +11868,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-258",
+    "LLAVE KEY": "PWE-259",
     "EDICION": "MAR. I - ED26",
     "LINEA": "BI",
     "CATEGORIA": "CURSO",
@@ -11868,7 +11914,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-259",
+    "LLAVE KEY": "PWE-260",
     "EDICION": "MAR. I - ED26",
     "LINEA": "BI",
     "CATEGORIA": "ESP.",
@@ -11914,7 +11960,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-260",
+    "LLAVE KEY": "PWE-261",
     "EDICION": "MAR. I - ED26",
     "LINEA": "BI",
     "CATEGORIA": "CURSO",
@@ -11941,15 +11987,15 @@
     "POSTDOCEN": "images/sqlserver.jpg",
     "AVALADO": "Avalado por Microsoft Partner Network",
     "CURSO MES": "NO",
-    "INV PRO T": 830,
-    "INV EST T": 740,
-    "INV PRO": 415,
-    "INV EST": 370,
+    "INV PRO T": 840,
+    "INV EST T": 750,
+    "INV PRO": 420,
+    "INV EST": 375,
     "RESEST": 150,
     "RESPRO": 150,
     "VIDEO": "",
-    "EXEST": 333,
-    "EXPRO": 373.5,
+    "EXEST": 337.5,
+    "EXPRO": 378,
     "PERSONALIZADO": "*El lenguaje de las empresas hoy son los datos* 🚀 \nAprende a manejar bases de datos y hacer consultas prácticas para gestionar información de forma eficiente 📊\nAhora te adjunto la información a detalle 👇🏻",
     "RES1": "*Excelente*, con SQL Server actualizarás tus habilidades en bases de datos y te mantendrás vigente en un mercado que exige dominio de la información.",
     "RES2": "Buenísimo, SQL Server es clave en muchas empresas. Este curso te dará ventaja frente a otros candidatos y aumentará tus opciones laborales.",
@@ -11960,7 +12006,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-261",
+    "LLAVE KEY": "PWE-262",
     "EDICION": "MAR. I - ED26",
     "LINEA": "FINANZ",
     "CATEGORIA": "ESP.",
@@ -12006,7 +12052,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-262",
+    "LLAVE KEY": "PWE-263",
     "EDICION": "MAR. I - ED26",
     "LINEA": "FINANZ",
     "CATEGORIA": "CURSO",
@@ -12052,7 +12098,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-263",
+    "LLAVE KEY": "PWE-264",
     "EDICION": "MAR. I - ED26",
     "LINEA": "LOGÍSTICA",
     "CATEGORIA": "CURSO",
@@ -12098,7 +12144,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-264",
+    "LLAVE KEY": "PWE-265",
     "EDICION": "MAR. II - ED26",
     "LINEA": "BI",
     "CATEGORIA": "CURSO",
@@ -12144,7 +12190,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-265",
+    "LLAVE KEY": "PWE-266",
     "EDICION": "MAR. I - ED26",
     "LINEA": "BI",
     "CATEGORIA": "DIPLOMADO",
@@ -12190,7 +12236,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-266",
+    "LLAVE KEY": "PWE-267",
     "EDICION": "MAR. I - ED26",
     "LINEA": "BI",
     "CATEGORIA": "CURSO",
@@ -12236,7 +12282,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-267",
+    "LLAVE KEY": "PWE-268",
     "EDICION": "MAR. I - ED26",
     "LINEA": "SAP",
     "CATEGORIA": "ESP.",
@@ -12282,7 +12328,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-268",
+    "LLAVE KEY": "PWE-269",
     "EDICION": "MAR. I - ED26",
     "LINEA": "SAP",
     "CATEGORIA": "ESP.",
@@ -12328,7 +12374,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-269",
+    "LLAVE KEY": "PWE-270",
     "EDICION": "MAR. I - ED26",
     "LINEA": "SAP",
     "CATEGORIA": "ESP.",
@@ -12374,7 +12420,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-270",
+    "LLAVE KEY": "PWE-271",
     "EDICION": "MAR. II - ED26",
     "LINEA": "LOGÍSTICA",
     "CATEGORIA": "CURSO",
@@ -12420,7 +12466,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-271",
+    "LLAVE KEY": "PWE-272",
     "EDICION": "MAR. I - ED26",
     "LINEA": "SAP",
     "CATEGORIA": "CURSO",
@@ -12466,7 +12512,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-272",
+    "LLAVE KEY": "PWE-273",
     "EDICION": "MAR. I - ED26",
     "LINEA": "WEB",
     "CATEGORIA": "CURSO",
@@ -12512,7 +12558,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-273",
+    "LLAVE KEY": "PWE-274",
     "EDICION": "MAR. I - ED26",
     "LINEA": "BI",
     "CATEGORIA": "CURSO",
@@ -12558,7 +12604,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-274",
+    "LLAVE KEY": "PWE-275",
     "EDICION": "MAR. II - ED26",
     "LINEA": "PROCESOS",
     "CATEGORIA": "ESP.",
@@ -12604,7 +12650,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-275",
+    "LLAVE KEY": "PWE-276",
     "EDICION": "MAR. II - ED26",
     "LINEA": "PROCESOS",
     "CATEGORIA": "CURSO",
@@ -12650,7 +12696,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-276",
+    "LLAVE KEY": "PWE-277",
     "EDICION": "MAR. I - ED26",
     "LINEA": "AGRONOMÍA",
     "CATEGORIA": "CURSO",
@@ -12696,7 +12742,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-277",
+    "LLAVE KEY": "PWE-278",
     "EDICION": "MAR. I - ED26",
     "LINEA": "PROCESOS",
     "CATEGORIA": "DIPLOMADO",
@@ -12742,7 +12788,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-278",
+    "LLAVE KEY": "PWE-279",
     "EDICION": "MAR. I - ED26",
     "LINEA": "PROCESOS",
     "CATEGORIA": "PEE",
@@ -12788,7 +12834,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-279",
+    "LLAVE KEY": "PWE-280",
     "EDICION": "MAR. I - ED26",
     "LINEA": "PROCESOS",
     "CATEGORIA": "CURSO",
@@ -12834,7 +12880,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-280",
+    "LLAVE KEY": "PWE-281",
     "EDICION": "MAR. I - ED26",
     "LINEA": "BI",
     "CATEGORIA": "CURSO",
@@ -12880,7 +12926,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-281",
+    "LLAVE KEY": "PWE-282",
     "EDICION": "MAR. I - ED26",
     "LINEA": "BI",
     "CATEGORIA": "CURSO",
@@ -12926,7 +12972,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-282",
+    "LLAVE KEY": "PWE-283",
     "EDICION": "ABR. I - ED26",
     "LINEA": "PROCESOS",
     "CATEGORIA": "CURSO",
@@ -12972,7 +13018,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-283",
+    "LLAVE KEY": "PWE-284",
     "EDICION": "ABR. I - ED26",
     "LINEA": "EXCEL",
     "CATEGORIA": "ESP.",
@@ -13018,7 +13064,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-284",
+    "LLAVE KEY": "PWE-285",
     "EDICION": "ABR. I - ED26",
     "LINEA": "EXCEL",
     "CATEGORIA": "CURSO",
@@ -13064,7 +13110,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-285",
+    "LLAVE KEY": "PWE-286",
     "EDICION": "ABR. I - ED26",
     "LINEA": "SAP",
     "CATEGORIA": "CURSO",
@@ -13110,7 +13156,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-286",
+    "LLAVE KEY": "PWE-287",
     "EDICION": "ABR. I - ED26",
     "LINEA": "PROYECTOS",
     "CATEGORIA": "CURSO",
@@ -13156,7 +13202,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-287",
+    "LLAVE KEY": "PWE-288",
     "EDICION": "ABR. I - ED26",
     "LINEA": "PROYECTOS",
     "CATEGORIA": "CURSO",
@@ -13183,15 +13229,15 @@
     "POSTDOCEN": "images/msproject.jpg",
     "AVALADO": "Avalado por Microsoft Partner Network",
     "CURSO MES": "SI",
-    "INV PRO T": 610,
-    "INV EST T": 550,
-    "INV PRO": 305,
-    "INV EST": 275,
+    "INV PRO T": 650,
+    "INV EST T": 580,
+    "INV PRO": 325,
+    "INV EST": 290,
     "RESEST": 150,
     "RESPRO": 150,
     "VIDEO": "",
-    "EXEST": 247.5,
-    "EXPRO": 274.5,
+    "EXEST": 261,
+    "EXPRO": 292.5,
     "PERSONALIZADO": "✨ *Planificar bien es la clave para que todo proyecto tenga éxito.*\nAprende a gestionar tareas, tiempos y recursos con Microsoft Project de forma práctica y profesional 📅\nAhora te adjunto la información a detalle 👇🏻",
     "RES1": "✨ Excelente, actualízate con MS Project y gestiona proyectos de manera más eficiente.",
     "RES2": "💼 Buenísimo, MS Project es muy valorado por las empresas que buscan profesionales de gestión.",
@@ -13202,7 +13248,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-288",
+    "LLAVE KEY": "PWE-289",
     "EDICION": "ABR. II - ED26",
     "LINEA": "PROYECTOS",
     "CATEGORIA": "CURSO",
@@ -13248,7 +13294,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-289",
+    "LLAVE KEY": "PWE-290",
     "EDICION": "ABR. I - ED26",
     "LINEA": "DISEÑO Y MODELO GRÁFICO",
     "CATEGORIA": "CURSO",
@@ -13294,7 +13340,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-290",
+    "LLAVE KEY": "PWE-291",
     "EDICION": "ABR. I - ED26",
     "LINEA": "BI",
     "CATEGORIA": "ESP.",
@@ -13340,7 +13386,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-291",
+    "LLAVE KEY": "PWE-292",
     "EDICION": "ABR. II - ED26",
     "LINEA": "PROYECTOS",
     "CATEGORIA": "CURSO",
@@ -13367,15 +13413,15 @@
     "POSTDOCEN": "images/msproject.jpg",
     "AVALADO": "Avalado por Microsoft Partner Network",
     "CURSO MES": "SI",
-    "INV PRO T": 610,
-    "INV EST T": 550,
-    "INV PRO": 305,
-    "INV EST": 275,
+    "INV PRO T": 650,
+    "INV EST T": 580,
+    "INV PRO": 325,
+    "INV EST": 290,
     "RESEST": 150,
     "RESPRO": 150,
     "VIDEO": "",
-    "EXEST": 247.5,
-    "EXPRO": 274.5,
+    "EXEST": 261,
+    "EXPRO": 292.5,
     "PERSONALIZADO": "✨ *Planificar bien es la clave para que todo proyecto tenga éxito.*\nAprende a gestionar tareas, tiempos y recursos con Microsoft Project de forma práctica y profesional 📅\nAhora te adjunto la información a detalle 👇🏻",
     "RES1": "✨ Excelente, actualízate con MS Project y gestiona proyectos de manera más eficiente.",
     "RES2": "💼 Buenísimo, MS Project es muy valorado por las empresas que buscan profesionales de gestión.",
@@ -13386,7 +13432,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-292",
+    "LLAVE KEY": "PWE-293",
     "EDICION": "ABR. I - ED26",
     "LINEA": "BI",
     "CATEGORIA": "CURSO",
@@ -13413,15 +13459,15 @@
     "POSTDOCEN": "images/sqlserver.jpg",
     "AVALADO": "Avalado por Microsoft Partner Network",
     "CURSO MES": "NO",
-    "INV PRO T": 830,
-    "INV EST T": 740,
-    "INV PRO": 415,
-    "INV EST": 370,
+    "INV PRO T": 840,
+    "INV EST T": 750,
+    "INV PRO": 420,
+    "INV EST": 375,
     "RESEST": 150,
     "RESPRO": 150,
     "VIDEO": "",
-    "EXEST": 333,
-    "EXPRO": 373.5,
+    "EXEST": 337.5,
+    "EXPRO": 378,
     "PERSONALIZADO": "*El lenguaje de las empresas hoy son los datos* 🚀 \nAprende a manejar bases de datos y hacer consultas prácticas para gestionar información de forma eficiente 📊\nAhora te adjunto la información a detalle 👇🏻",
     "RES1": "*Excelente*, con SQL Server actualizarás tus habilidades en bases de datos y te mantendrás vigente en un mercado que exige dominio de la información.",
     "RES2": "Buenísimo, SQL Server es clave en muchas empresas. Este curso te dará ventaja frente a otros candidatos y aumentará tus opciones laborales.",
@@ -13432,7 +13478,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-293",
+    "LLAVE KEY": "PWE-294",
     "EDICION": "ABR. I - ED26",
     "LINEA": "BI",
     "CATEGORIA": "CURSO",
@@ -13478,7 +13524,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-294",
+    "LLAVE KEY": "PWE-295",
     "EDICION": "ABR. I - ED26",
     "LINEA": "LOGÍSTICA",
     "CATEGORIA": "CURSO",
@@ -13524,7 +13570,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-295",
+    "LLAVE KEY": "PWE-296",
     "EDICION": "ABR. I - ED26",
     "LINEA": "PROCESOS",
     "CATEGORIA": "CURSO",
@@ -13570,7 +13616,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-296",
+    "LLAVE KEY": "PWE-297",
     "EDICION": "ABR. I - ED26",
     "LINEA": "EXCEL",
     "CATEGORIA": "ESP.",
@@ -13616,7 +13662,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-297",
+    "LLAVE KEY": "PWE-298",
     "EDICION": "ABR. I - ED26",
     "LINEA": "EXCEL",
     "CATEGORIA": "ESP.",
@@ -13662,7 +13708,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-298",
+    "LLAVE KEY": "PWE-299",
     "EDICION": "ABR. I - ED26",
     "LINEA": "EXCEL",
     "CATEGORIA": "CURSO",
@@ -13708,7 +13754,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-299",
+    "LLAVE KEY": "PWE-300",
     "EDICION": "ABR. I - ED26",
     "LINEA": "BI",
     "CATEGORIA": "CURSO",
@@ -13754,7 +13800,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-300",
+    "LLAVE KEY": "PWE-301",
     "EDICION": "ABR. I - ED26",
     "LINEA": "EXCEL",
     "CATEGORIA": "CURSO",
@@ -13800,7 +13846,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-301",
+    "LLAVE KEY": "PWE-302",
     "EDICION": "ABR. I - ED26",
     "LINEA": "SAP",
     "CATEGORIA": "CURSO",
@@ -13846,7 +13892,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-302",
+    "LLAVE KEY": "PWE-303",
     "EDICION": "ABR. I - ED26",
     "LINEA": "LOGÍSTICA",
     "CATEGORIA": "CURSO",
@@ -13892,7 +13938,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-303",
+    "LLAVE KEY": "PWE-304",
     "EDICION": "ABR. I - ED26",
     "LINEA": "PROCESOS",
     "CATEGORIA": "CURSO",
@@ -13938,7 +13984,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-304",
+    "LLAVE KEY": "PWE-305",
     "EDICION": "ABR. I - ED26",
     "LINEA": "EXCEL",
     "CATEGORIA": "CURSO",
@@ -13984,7 +14030,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-305",
+    "LLAVE KEY": "PWE-306",
     "EDICION": "ABR. I - ED26",
     "LINEA": "SAP",
     "CATEGORIA": "CURSO",
@@ -14030,7 +14076,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-306",
+    "LLAVE KEY": "PWE-307",
     "EDICION": "ABR. I - ED26",
     "LINEA": "SAP",
     "CATEGORIA": "CURSO",
@@ -14076,7 +14122,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-307",
+    "LLAVE KEY": "PWE-308",
     "EDICION": "ABR. I - ED26",
     "LINEA": "LOGÍSTICA",
     "CATEGORIA": "CURSO",
@@ -14122,7 +14168,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-308",
+    "LLAVE KEY": "PWE-309",
     "EDICION": "ABR. II - ED26",
     "LINEA": "BI",
     "CATEGORIA": "CURSO",
@@ -14149,15 +14195,15 @@
     "POSTDOCEN": "images/sqlserver.jpg",
     "AVALADO": "Avalado por Microsoft Partner Network",
     "CURSO MES": "NO",
-    "INV PRO T": 830,
-    "INV EST T": 740,
-    "INV PRO": 415,
-    "INV EST": 370,
+    "INV PRO T": 840,
+    "INV EST T": 750,
+    "INV PRO": 420,
+    "INV EST": 375,
     "RESEST": 150,
     "RESPRO": 150,
     "VIDEO": "",
-    "EXEST": 333,
-    "EXPRO": 373.5,
+    "EXEST": 337.5,
+    "EXPRO": 378,
     "PERSONALIZADO": "*El lenguaje de las empresas hoy son los datos* 🚀 \nAprende a manejar bases de datos y hacer consultas prácticas para gestionar información de forma eficiente 📊\nAhora te adjunto la información a detalle 👇🏻",
     "RES1": "*Excelente*, con SQL Server actualizarás tus habilidades en bases de datos y te mantendrás vigente en un mercado que exige dominio de la información.",
     "RES2": "Buenísimo, SQL Server es clave en muchas empresas. Este curso te dará ventaja frente a otros candidatos y aumentará tus opciones laborales.",
@@ -14168,7 +14214,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-309",
+    "LLAVE KEY": "PWE-310",
     "EDICION": "ABR. I - ED26",
     "LINEA": "BI",
     "CATEGORIA": "CURSO",
@@ -14214,7 +14260,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-310",
+    "LLAVE KEY": "PWE-311",
     "EDICION": "ABR. I - ED26",
     "LINEA": "BI",
     "CATEGORIA": "CURSO",
@@ -14260,7 +14306,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-311",
+    "LLAVE KEY": "PWE-312",
     "EDICION": "ABR. II - ED26",
     "LINEA": "LOGÍSTICA",
     "CATEGORIA": "CURSO",
@@ -14306,7 +14352,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-312",
+    "LLAVE KEY": "PWE-313",
     "EDICION": "ABR. II - ED26",
     "LINEA": "BI",
     "CATEGORIA": "ESP.",
@@ -14352,7 +14398,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-313",
+    "LLAVE KEY": "PWE-314",
     "EDICION": "ABR. II - ED26",
     "LINEA": "EXCEL",
     "CATEGORIA": "CURSO",
@@ -14398,7 +14444,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-314",
+    "LLAVE KEY": "PWE-315",
     "EDICION": "ABR. I - ED26",
     "LINEA": "PROYECTOS",
     "CATEGORIA": "CURSO",
@@ -14444,7 +14490,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-315",
+    "LLAVE KEY": "PWE-316",
     "EDICION": "MAY. I - ED26",
     "LINEA": "EXCEL",
     "CATEGORIA": "CURSO",
@@ -14490,7 +14536,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-316",
+    "LLAVE KEY": "PWE-317",
     "EDICION": "MAY. I - ED26",
     "LINEA": "PROCESOS",
     "CATEGORIA": "CURSO",
@@ -14536,7 +14582,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-317",
+    "LLAVE KEY": "PWE-318",
     "EDICION": "MAY. I - ED26",
     "LINEA": "PROYECTOS",
     "CATEGORIA": "CURSO",
@@ -14582,7 +14628,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-318",
+    "LLAVE KEY": "PWE-319",
     "EDICION": "MAY. I - ED26",
     "LINEA": "LOGÍSTICA",
     "CATEGORIA": "CURSO",
@@ -14628,7 +14674,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-319",
+    "LLAVE KEY": "PWE-320",
     "EDICION": "MAY. I - ED26",
     "LINEA": "EXCEL",
     "CATEGORIA": "CURSO",
@@ -14674,7 +14720,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-320",
+    "LLAVE KEY": "PWE-321",
     "EDICION": "MAY. I - ED26",
     "LINEA": "BI",
     "CATEGORIA": "CURSO",
@@ -14720,7 +14766,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-321",
+    "LLAVE KEY": "PWE-322",
     "EDICION": "MAY. I - ED26",
     "LINEA": "PROCESOS",
     "CATEGORIA": "CURSO",
@@ -14747,15 +14793,15 @@
     "POSTDOCEN": "images/powerappavanz.jpg",
     "AVALADO": "Avalado por Microsoft Partner Network",
     "CURSO MES": "NO",
-    "INV PRO T": 650,
-    "INV EST T": 570,
-    "INV PRO": 325,
-    "INV EST": 285,
+    "INV PRO T": 700,
+    "INV EST T": 650,
+    "INV PRO": 350,
+    "INV EST": 325,
     "RESEST": 150,
     "RESPRO": 150,
     "VIDEO": "",
-    "EXEST": 256.5,
-    "EXPRO": 292.5,
+    "EXEST": 292.5,
+    "EXPRO": 315,
     "PERSONALIZADO": "El futuro de los negocios es la automatización sin código 💡\nCon Power Apps Avanzado diseñarás aplicaciones prácticas para optimizar procesos reales 📊.\nAquí te comparto la información 👇🏻",
     "RES1": "⚡ Excelente, actualízate con Power Apps Avanzado y domina la automatización de procesos.",
     "RES2": "💼 Buenísimo, Power Apps Avanzado es muy buscado en empresas que digitalizan operaciones.",
@@ -14766,7 +14812,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-322",
+    "LLAVE KEY": "PWE-323",
     "EDICION": "MAY. I - ED26",
     "LINEA": "FINANZ",
     "CATEGORIA": "CURSO",
@@ -14793,15 +14839,15 @@
     "POSTDOCEN": "images/costypre.jpg",
     "AVALADO": "",
     "CURSO MES": "NO",
-    "INV PRO T": 750,
-    "INV EST T": 700,
-    "INV PRO": 375,
-    "INV EST": 350,
+    "INV PRO T": 730,
+    "INV EST T": 680,
+    "INV PRO": 365,
+    "INV EST": 340,
     "RESEST": 150,
     "RESPRO": 150,
     "VIDEO": "",
-    "EXEST": 315,
-    "EXPRO": 337.5,
+    "EXEST": 306,
+    "EXPRO": 328.5,
     "PERSONALIZADO": "Los líderes gestionan recursos con precisión y visión 📊\nCon Costos y Presupuestos aprenderás a planificar y controlar gastos de manera práctica 💼.\nAquí te comparto la info 👇🏻",
     "RES1": "📊 *Excelente*, con *Costos y Presupuestos* te actualizarás en control financiero y gestión de proyectos.",
     "RES2": "💼 Buenísimo, *Costos y Presupuestos* es clave en empresas y muy requerido por empleadores.",
@@ -14812,7 +14858,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-323",
+    "LLAVE KEY": "PWE-324",
     "EDICION": "MAY. I - ED26",
     "LINEA": "BI",
     "CATEGORIA": "CURSO",
@@ -14858,7 +14904,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-324",
+    "LLAVE KEY": "PWE-325",
     "EDICION": "MAY. I - ED26",
     "LINEA": "LOGÍSTICA",
     "CATEGORIA": "CURSO",
@@ -14904,7 +14950,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-325",
+    "LLAVE KEY": "PWE-326",
     "EDICION": "MAY. II - ED26",
     "LINEA": "BI",
     "CATEGORIA": "CURSO",
@@ -14950,7 +14996,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-326",
+    "LLAVE KEY": "PWE-327",
     "EDICION": "MAY. I - ED26",
     "LINEA": "SAP",
     "CATEGORIA": "CURSO",
@@ -14996,7 +15042,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-327",
+    "LLAVE KEY": "PWE-328",
     "EDICION": "MAY. I - ED26",
     "LINEA": "BI",
     "CATEGORIA": "CURSO",
@@ -15042,7 +15088,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-328",
+    "LLAVE KEY": "PWE-329",
     "EDICION": "MAY. II - ED26",
     "LINEA": "PROCESOS",
     "CATEGORIA": "CURSO",
@@ -15069,15 +15115,15 @@
     "POSTDOCEN": "images/powerappavanz.jpg",
     "AVALADO": "Avalado por Microsoft Partner Network",
     "CURSO MES": "NO",
-    "INV PRO T": 650,
-    "INV EST T": 570,
-    "INV PRO": 325,
-    "INV EST": 285,
+    "INV PRO T": 700,
+    "INV EST T": 650,
+    "INV PRO": 350,
+    "INV EST": 325,
     "RESEST": 150,
     "RESPRO": 150,
     "VIDEO": "",
-    "EXEST": 256.5,
-    "EXPRO": 292.5,
+    "EXEST": 292.5,
+    "EXPRO": 315,
     "PERSONALIZADO": "El futuro de los negocios es la automatización sin código 💡\nCon Power Apps Avanzado diseñarás aplicaciones prácticas para optimizar procesos reales 📊.\nAquí te comparto la información 👇🏻",
     "RES1": "⚡ Excelente, actualízate con Power Apps Avanzado y domina la automatización de procesos.",
     "RES2": "💼 Buenísimo, Power Apps Avanzado es muy buscado en empresas que digitalizan operaciones.",
@@ -15088,7 +15134,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-329",
+    "LLAVE KEY": "PWE-330",
     "EDICION": "MAY. I - ED26",
     "LINEA": "WEB",
     "CATEGORIA": "CURSO",
@@ -15134,7 +15180,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-330",
+    "LLAVE KEY": "PWE-331",
     "EDICION": "MAY. I - ED26",
     "LINEA": "PROCESOS",
     "CATEGORIA": "CURSO",
@@ -15180,7 +15226,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-331",
+    "LLAVE KEY": "PWE-332",
     "EDICION": "MAY. I - ED26",
     "LINEA": "BI",
     "CATEGORIA": "CURSO",
@@ -15226,7 +15272,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-332",
+    "LLAVE KEY": "PWE-333",
     "EDICION": "MAY. II - ED26",
     "LINEA": "PROYECTOS",
     "CATEGORIA": "CURSO",
@@ -15272,7 +15318,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-333",
+    "LLAVE KEY": "PWE-334",
     "EDICION": "MAY. II - ED26",
     "LINEA": "BI",
     "CATEGORIA": "CURSO",
@@ -15318,7 +15364,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-334",
+    "LLAVE KEY": "PWE-335",
     "EDICION": "MAY. II - ED26",
     "LINEA": "LOGÍSTICA",
     "CATEGORIA": "CURSO",
@@ -15364,7 +15410,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-335",
+    "LLAVE KEY": "PWE-336",
     "EDICION": "MAY. I - ED26",
     "LINEA": "LOGÍSTICA",
     "CATEGORIA": "CURSO",
@@ -15410,7 +15456,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-336",
+    "LLAVE KEY": "PWE-337",
     "EDICION": "MAY. II - ED26",
     "LINEA": "EXCEL",
     "CATEGORIA": "CURSO",
@@ -15456,7 +15502,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-337",
+    "LLAVE KEY": "PWE-338",
     "EDICION": "MAY. II - ED26",
     "LINEA": "PROCESOS",
     "CATEGORIA": "CURSO",
@@ -15502,7 +15548,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-338",
+    "LLAVE KEY": "PWE-339",
     "EDICION": "MAY. I - ED26",
     "LINEA": "SAP",
     "CATEGORIA": "CURSO",
@@ -15548,7 +15594,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-339",
+    "LLAVE KEY": "PWE-340",
     "EDICION": "MAY. I - ED26",
     "LINEA": "EXCEL",
     "CATEGORIA": "ESP.",
@@ -15594,7 +15640,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-340",
+    "LLAVE KEY": "PWE-341",
     "EDICION": "MAY. III - ED26",
     "LINEA": "EXCEL",
     "CATEGORIA": "CURSO",
@@ -15640,7 +15686,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-341",
+    "LLAVE KEY": "PWE-342",
     "EDICION": "MAY. I - ED26",
     "LINEA": "SAP",
     "CATEGORIA": "CURSO",
@@ -15686,7 +15732,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-342",
+    "LLAVE KEY": "PWE-343",
     "EDICION": "MAY. I - ED26",
     "LINEA": "PROYECTOS",
     "CATEGORIA": "CURSO",
@@ -15732,7 +15778,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-343",
+    "LLAVE KEY": "PWE-344",
     "EDICION": "MAY. II - ED26",
     "LINEA": "BI",
     "CATEGORIA": "CURSO",
@@ -15778,7 +15824,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-344",
+    "LLAVE KEY": "PWE-345",
     "EDICION": "MAY. III - ED26",
     "LINEA": "BI",
     "CATEGORIA": "CURSO",
@@ -15824,7 +15870,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-345",
+    "LLAVE KEY": "PWE-346",
     "EDICION": "JUN. I - ED26",
     "LINEA": "PROCESOS",
     "CATEGORIA": "CURSO",
@@ -15870,7 +15916,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-346",
+    "LLAVE KEY": "PWE-347",
     "EDICION": "JUN. I - ED26",
     "LINEA": "BI",
     "CATEGORIA": "CURSO",
@@ -15916,7 +15962,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-347",
+    "LLAVE KEY": "PWE-348",
     "EDICION": "JUN. I - ED26",
     "LINEA": "PROCESOS",
     "CATEGORIA": "CURSO",
@@ -15962,7 +16008,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-348",
+    "LLAVE KEY": "PWE-349",
     "EDICION": "JUN. I - ED26",
     "LINEA": "LOGÍSTICA",
     "CATEGORIA": "CURSO",
@@ -16008,7 +16054,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-349",
+    "LLAVE KEY": "PWE-350",
     "EDICION": "JUN. I - ED26",
     "LINEA": "EXCEL",
     "CATEGORIA": "CURSO",
@@ -16054,7 +16100,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-350",
+    "LLAVE KEY": "PWE-351",
     "EDICION": "JUN. II - ED26",
     "LINEA": "EXCEL",
     "CATEGORIA": "CURSO",
@@ -16100,7 +16146,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-351",
+    "LLAVE KEY": "PWE-352",
     "EDICION": "JUN. I - ED26",
     "LINEA": "SAP",
     "CATEGORIA": "CURSO",
@@ -16146,7 +16192,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-352",
+    "LLAVE KEY": "PWE-353",
     "EDICION": "JUN. I - ED26",
     "LINEA": "BI",
     "CATEGORIA": "CURSO",
@@ -16192,7 +16238,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-353",
+    "LLAVE KEY": "PWE-354",
     "EDICION": "JUN. I - ED26",
     "LINEA": "LOGÍSTICA",
     "CATEGORIA": "CURSO",
@@ -16238,7 +16284,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-354",
+    "LLAVE KEY": "PWE-355",
     "EDICION": "JUN. I - ED26",
     "LINEA": "PROCESOS",
     "CATEGORIA": "CURSO",
@@ -16284,7 +16330,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-355",
+    "LLAVE KEY": "PWE-356",
     "EDICION": "JUL. I - ED26",
     "LINEA": "PROCESOS",
     "CATEGORIA": "CURSO",
@@ -16330,7 +16376,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-356",
+    "LLAVE KEY": "PWE-357",
     "EDICION": "JUL. I - ED26",
     "LINEA": "EXCEL",
     "CATEGORIA": "CURSO",
@@ -16376,7 +16422,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-357",
+    "LLAVE KEY": "PWE-358",
     "EDICION": "JUL. I - ED26",
     "LINEA": "PROCESOS",
     "CATEGORIA": "CURSO",
@@ -16422,7 +16468,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-358",
+    "LLAVE KEY": "PWE-359",
     "EDICION": "JUL. I - ED26",
     "LINEA": "LOGÍSTICA",
     "CATEGORIA": "CURSO",
@@ -16468,7 +16514,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-359",
+    "LLAVE KEY": "PWE-360",
     "EDICION": "JUL. I - ED26",
     "LINEA": "PROYECTOS",
     "CATEGORIA": "CURSO",
@@ -16514,7 +16560,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-360",
+    "LLAVE KEY": "PWE-361",
     "EDICION": "JUL. I - ED26",
     "LINEA": "BI",
     "CATEGORIA": "CURSO",
@@ -16560,7 +16606,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-361",
+    "LLAVE KEY": "PWE-362",
     "EDICION": "AGO. I - ED26",
     "LINEA": "PROYECTOS",
     "CATEGORIA": "CURSO",
@@ -16606,7 +16652,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-362",
+    "LLAVE KEY": "PWE-363",
     "EDICION": "AGO. I - ED26",
     "LINEA": "PROCESOS",
     "CATEGORIA": "CURSO",
@@ -16652,7 +16698,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-363",
+    "LLAVE KEY": "PWE-364",
     "EDICION": "AGO. I - ED26",
     "LINEA": "PROCESOS",
     "CATEGORIA": "CURSO",
@@ -16698,7 +16744,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-364",
+    "LLAVE KEY": "PWE-365",
     "EDICION": "AGO. I - ED26",
     "LINEA": "LOGÍSTICA",
     "CATEGORIA": "CURSO",
@@ -16744,7 +16790,7 @@
     "HABITILITADO": 1
   },
   {
-    "LLAVE KEY": "PWE-365",
+    "LLAVE KEY": "PWE-366",
     "EDICION": "SEP. I - ED26",
     "LINEA": "BI",
     "CATEGORIA": "CURSO",
@@ -16833,6 +16879,6 @@
     "RES4": "🚀 ¡Perfecto! Con UiPath destacarás en prácticas relacionadas con innovación tecnológica.",
     "RES5": "📊 ¡Excelente! Con UiPath podrás automatizar procesos y ahorrar tiempo en tu negocio.",
     "ENLACE": "https://we-educacion.com/slides/robotizacion-de-procesos-con-uipath-274",
-    "HABITILITADO": 1
+    "HABITILITADO": ""
   }
 ]

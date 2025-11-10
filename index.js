@@ -298,7 +298,7 @@ client.on("message", async (message) => {
             // Lógica de Inversión (usa 'numero' para formatearPrecio)
             if (esCurso) {
                 if (esEstudiante) {
-                    inversionMsg = `*Hasta el Viernes 07 de Noviembre por CyberWow 💥😲*
+                    inversionMsg = `*Hasta el Viernes 14 de Noviembre por CyberWow 💥😲*
 
 Opciones de pago:
 1️⃣ *Al Contado* Ahorro máximo😉
@@ -310,7 +310,7 @@ Opciones de pago:
 
 *La inversión incluye el CERTIFICADO* 📚`;
                 } else {
-                    inversionMsg = `*Hasta el Viernes 07 de Noviembre por CyberWow 💥😲*
+                    inversionMsg = `*Hasta el Viernes 14 de Noviembre por CyberWow 💥😲*
 
 Opciones de pago:
 1️⃣ *Al Contado* Ahorro máximo😉
@@ -324,7 +324,7 @@ Opciones de pago:
                 }
             } else {
                 if (esEstudiante) {
-                    inversionMsg = `*Hasta el Viernes 07 de Noviembre por CyberWow 💥😲*
+                    inversionMsg = `*Hasta el Viernes 14 de Noviembre por CyberWow 💥😲*
 
 Facilidades de pago:
 1️⃣ *En Cuotas sin Intereses* 🔥50% Dcto > ${formatearPrecio(numero, p["INV EST"])} ~(Normal ${formatearPrecio(numero, p["INV EST T"])})~
@@ -335,7 +335,7 @@ Facilidades de pago:
 
 *La inversión incluye el CERTIFICADO* 📚`;
                 } else {
-                    inversionMsg = `*Hasta el Viernes 07 de Noviembre por CyberWow 💥😲*
+                    inversionMsg = `*Hasta el Viernes 14 de Noviembre por CyberWow 💥😲*
 
 Facilidades de pago:
 1️⃣ *En Cuotas sin Intereses* 🔥50% Dcto > ${formatearPrecio(numero, p["INV PRO"])} ~(Normal ${formatearPrecio(numero, p["INV PRO T"])})~
